@@ -1,7 +1,7 @@
 {
   "Human": {
     "DisplayName": "human",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -143,7 +143,7 @@
   },
   "BS_Centaur": {
     "DisplayName": "centauroid",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -285,7 +285,7 @@
   },
   "BS_HumanFouramed": {
     "DisplayName": "Four Armed Human",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -427,7 +427,7 @@
   },
   "BS_Naga": {
     "DisplayName": "snake-person",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -569,7 +569,7 @@
   },
   "BS_Marlith": {
     "DisplayName": "six-armed snake-person",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2000,
     "MinAge": 16,
@@ -711,7 +711,7 @@
   },
   "BS_UrbMech": {
     "DisplayName": "mech",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -853,7 +853,7 @@
   },
   "BS_SixArmedHuman": {
     "DisplayName": "Six Armed Human",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -995,7 +995,7 @@
   },
   "BS_SpiderPersonRace": {
     "DisplayName": "spider-person",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -1137,7 +1137,7 @@
   },
   "BS_HumanoidWithTail": {
     "DisplayName": "tailed humanoid",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -1279,7 +1279,7 @@
   },
   "BS_HumanoidWithWings": {
     "DisplayName": "winged humanoid",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -1421,7 +1421,7 @@
   },
   "BS_JustAHead": {
     "DisplayName": "disembodied head",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -1705,7 +1705,7 @@
   },
   "Alien_Epona_Milira": {
     "DisplayName": "瓦尔基里",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1000,
     "MinAge": 16,
@@ -1847,7 +1847,7 @@
   },
   "Alien_Unicorn_Milira": {
     "DisplayName": "派卡萨斯",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4500,
     "MinAge": 16,
@@ -2557,7 +2557,7 @@
   },
   "Milian_Race": {
     "DisplayName": "Milian",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -3125,7 +3125,7 @@
   },
   "G_CentaurFourArm": {
     "DisplayName": "Centauroid with four arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3267,7 +3267,7 @@
   },
   "G_CentaurFourArmWinged": {
     "DisplayName": "Centauroid with four arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3409,7 +3409,7 @@
   },
   "G_CentaurSixArm": {
     "DisplayName": "Centauroid with six arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3551,7 +3551,7 @@
   },
   "G_CentaurSixArmWinged": {
     "DisplayName": "Centauroid with six arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3693,7 +3693,7 @@
   },
   "G_CentaurWinged": {
     "DisplayName": "Centauroid with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3835,7 +3835,7 @@
   },
   "G_SnekFourArm": {
     "DisplayName": "Serpent-like with four arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -3977,7 +3977,7 @@
   },
   "G_SnekFourArmWinged": {
     "DisplayName": "Serpent-like with four arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -4119,7 +4119,7 @@
   },
   "G_SnekSixArm": {
     "DisplayName": "Serpent-like with six arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -4261,7 +4261,7 @@
   },
   "G_SnekSixArmWinged": {
     "DisplayName": "Serpent-like with six arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -4403,7 +4403,7 @@
   },
   "G_SnekWinged": {
     "DisplayName": "Serpent-like with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -4545,7 +4545,7 @@
   },
   "G_SpooderFourArm": {
     "DisplayName": "Spider-like with four arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -4687,7 +4687,7 @@
   },
   "G_SpooderFourArmWinged": {
     "DisplayName": "Spider-like with four arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -4829,7 +4829,7 @@
   },
   "G_SpooderSixArm": {
     "DisplayName": "Spider-like with six arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -4971,7 +4971,7 @@
   },
   "G_SpooderSixArmWinged": {
     "DisplayName": "Spider-like with six arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -5113,7 +5113,7 @@
   },
   "G_SpooderWinged": {
     "DisplayName": "Spider-like with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -5255,7 +5255,7 @@
   },
   "G_FourArmTailed": {
     "DisplayName": "Four-armed humanlike with a tail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -5397,7 +5397,7 @@
   },
   "G_FourArmTailedWinged": {
     "DisplayName": "Four-armed humanlike with a tail and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -5539,7 +5539,7 @@
   },
   "G_FourArmWinged": {
     "DisplayName": "Four-armed humanlike with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -5681,7 +5681,7 @@
   },
   "G_SixArmTailed": {
     "DisplayName": "Six-armed humanlike with a tail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -5823,7 +5823,7 @@
   },
   "G_SixArmTailedWinged": {
     "DisplayName": "Six-armed humanlike with a tail and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -5965,7 +5965,7 @@
   },
   "G_SixArmWinged": {
     "DisplayName": "Six-armed humanlike with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -6107,7 +6107,7 @@
   },
   "G_TailedWinged": {
     "DisplayName": "Tailed humanlike with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1750,
     "MinAge": 16,
@@ -6249,7 +6249,7 @@
   },
   "M_MechaCentaurFourArm": {
     "DisplayName": "Mech with four legs and four arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -6391,7 +6391,7 @@
   },
   "M_MechaCentaurFourArmWinged": {
     "DisplayName": "Mech with four legs and four arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -6533,7 +6533,7 @@
   },
   "M_MechaCentaurSixArm": {
     "DisplayName": "Mech with four legs and six arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -6675,7 +6675,7 @@
   },
   "M_MechaCentaurSixArmWinged": {
     "DisplayName": "Mech with four legs and six arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -6817,7 +6817,7 @@
   },
   "M_MechaCentaurWinged": {
     "DisplayName": "Mech with four legs and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -6959,7 +6959,7 @@
   },
   "M_MechaSnekFourArm": {
     "DisplayName": "Mech with serpent-like tail and four arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -7101,7 +7101,7 @@
   },
   "M_MechaSnekFourArmWinged": {
     "DisplayName": "Mech with serpent-like tail and four arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -7243,7 +7243,7 @@
   },
   "M_MechaSnekSixArm": {
     "DisplayName": "Mech with serpent-like tail and six arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -7385,7 +7385,7 @@
   },
   "M_MechaSnekSixArmWinged": {
     "DisplayName": "Mech with serpent-like tail and six arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -7527,7 +7527,7 @@
   },
   "M_MechaSnekWinged": {
     "DisplayName": "Mech with serpent-like tail and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -7669,7 +7669,7 @@
   },
   "M_MechaSpooderFourArm": {
     "DisplayName": "Mech with spider-like abdomen and four arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -7811,7 +7811,7 @@
   },
   "M_MechaSpooderFourArmWinged": {
     "DisplayName": "Mech with spider-like abdomen and four arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -7953,7 +7953,7 @@
   },
   "M_MechaSpooderSixArm": {
     "DisplayName": "Mech with spider-like abdomen and six arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -8095,7 +8095,7 @@
   },
   "M_MechaSpooderSixArmWinged": {
     "DisplayName": "Mech with spider-like abdomen and six arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -8237,7 +8237,7 @@
   },
   "M_MechaSpooderWinged": {
     "DisplayName": "Mech with spider-like abdomen and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -8379,7 +8379,7 @@
   },
   "M_MechaFourArmTailed": {
     "DisplayName": "Mech with four arms and a tail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -8521,7 +8521,7 @@
   },
   "M_MechaFourArmTailedWinged": {
     "DisplayName": "Mech with four arms and a tail and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -8663,7 +8663,7 @@
   },
   "M_MechaFourArmWinged": {
     "DisplayName": "Mech with four arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -8805,7 +8805,7 @@
   },
   "M_MechaSixArmTailed": {
     "DisplayName": "Mech with six arms and a tail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -8947,7 +8947,7 @@
   },
   "M_MechaSixArmTailedWinged": {
     "DisplayName": "Mech with six arms and a tail and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -9089,7 +9089,7 @@
   },
   "M_MechaSixArmWinged": {
     "DisplayName": "Mech with six arms and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -9231,7 +9231,7 @@
   },
   "M_MechaTailedWinged": {
     "DisplayName": "Mech with a tail and wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -9373,7 +9373,7 @@
   },
   "M_MechaCentaur": {
     "DisplayName": "Mech with four legs",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -9515,7 +9515,7 @@
   },
   "M_MechaSnek": {
     "DisplayName": "Mech with serpent-like tail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -9657,7 +9657,7 @@
   },
   "M_MechaSpooder": {
     "DisplayName": "Mech with spider-like abdomen",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -9799,7 +9799,7 @@
   },
   "M_MechaFourArm": {
     "DisplayName": "Mech with four arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -9941,7 +9941,7 @@
   },
   "M_MechaSixArm": {
     "DisplayName": "Mech with six arms",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -10083,7 +10083,7 @@
   },
   "M_MechaTailed": {
     "DisplayName": "Mech with a tail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -10225,7 +10225,7 @@
   },
   "M_MechaWinged": {
     "DisplayName": "Mech with wings",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2500,
     "MinAge": 16,
@@ -10367,7 +10367,7 @@
   },
   "HL_Bear_Grizzly": {
     "DisplayName": "grizzly bear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1050,
     "MinAge": 16,
@@ -10509,7 +10509,7 @@
   },
   "HL_Bear_Polar": {
     "DisplayName": "polar bear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1050,
     "MinAge": 16,
@@ -10651,7 +10651,7 @@
   },
   "HL_Ostrich": {
     "DisplayName": "ostrich",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -10793,7 +10793,7 @@
   },
   "HL_Emu": {
     "DisplayName": "emu",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -10935,7 +10935,7 @@
   },
   "HL_Cassowary": {
     "DisplayName": "cassowary",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -11077,7 +11077,7 @@
   },
   "HL_Cougar": {
     "DisplayName": "cougar",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -11219,7 +11219,7 @@
   },
   "HL_Panther": {
     "DisplayName": "panther",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -11361,7 +11361,7 @@
   },
   "HL_Lynx": {
     "DisplayName": "lynx",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -11503,7 +11503,7 @@
   },
   "HL_Cat": {
     "DisplayName": "cat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -11645,7 +11645,7 @@
   },
   "HL_YorkshireTerrier": {
     "DisplayName": "yorkshire terrier",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -11787,7 +11787,7 @@
   },
   "HL_GuineaPig": {
     "DisplayName": "guinea pig",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -11929,7 +11929,7 @@
   },
   "HL_LabradorRetriever": {
     "DisplayName": "labrador retriever",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -12071,7 +12071,7 @@
   },
   "HL_Husky": {
     "DisplayName": "husky",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -12213,7 +12213,7 @@
   },
   "HL_Monkey": {
     "DisplayName": "monkey",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -12355,7 +12355,7 @@
   },
   "HL_Chicken": {
     "DisplayName": "chicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75,
     "MinAge": 16,
@@ -12497,7 +12497,7 @@
   },
   "HL_Duck": {
     "DisplayName": "duck",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -12639,7 +12639,7 @@
   },
   "HL_Turkey": {
     "DisplayName": "turkey",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -12781,7 +12781,7 @@
   },
   "HL_Goose": {
     "DisplayName": "goose",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 135,
     "MinAge": 16,
@@ -12923,7 +12923,7 @@
   },
   "HL_Cow": {
     "DisplayName": "cow",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 450,
     "MinAge": 16,
@@ -13065,7 +13065,7 @@
   },
   "HL_Boomalope": {
     "DisplayName": "boomalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -13207,7 +13207,7 @@
   },
   "HL_Muffalo": {
     "DisplayName": "muffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 450,
     "MinAge": 16,
@@ -13349,7 +13349,7 @@
   },
   "HL_Bison": {
     "DisplayName": "bison",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -13491,7 +13491,7 @@
   },
   "HL_Dromedary": {
     "DisplayName": "dromedary",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 450,
     "MinAge": 16,
@@ -13633,7 +13633,7 @@
   },
   "HL_Goat": {
     "DisplayName": "goat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -13775,7 +13775,7 @@
   },
   "HL_Elk": {
     "DisplayName": "elk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 450,
     "MinAge": 16,
@@ -13917,7 +13917,7 @@
   },
   "HL_Yak": {
     "DisplayName": "yak",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 480,
     "MinAge": 16,
@@ -14059,7 +14059,7 @@
   },
   "HL_Caribou": {
     "DisplayName": "caribou",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 450,
     "MinAge": 16,
@@ -14201,7 +14201,7 @@
   },
   "HL_Horse": {
     "DisplayName": "horse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -14343,7 +14343,7 @@
   },
   "HL_Donkey": {
     "DisplayName": "donkey",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 480,
     "MinAge": 16,
@@ -14485,7 +14485,7 @@
   },
   "HL_Elephant": {
     "DisplayName": "elephant",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -14627,7 +14627,7 @@
   },
   "HL_Rhinoceros": {
     "DisplayName": "rhinoceros",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1050,
     "MinAge": 16,
@@ -14769,7 +14769,7 @@
   },
   "HL_Hare": {
     "DisplayName": "hare",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75,
     "MinAge": 16,
@@ -14911,7 +14911,7 @@
   },
   "HL_Snowhare": {
     "DisplayName": "snowhare",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75,
     "MinAge": 16,
@@ -15053,7 +15053,7 @@
   },
   "HL_Megascarab": {
     "DisplayName": "megascarab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -15195,7 +15195,7 @@
   },
   "HL_Spelopede": {
     "DisplayName": "spelopede",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -15337,7 +15337,7 @@
   },
   "HL_Megaspider": {
     "DisplayName": "megaspider",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -15479,7 +15479,7 @@
   },
   "HL_Thrumbo": {
     "DisplayName": "thrumbo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6000,
     "MinAge": 16,
@@ -15621,7 +15621,7 @@
   },
   "HL_Cobra": {
     "DisplayName": "cobra",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -15763,7 +15763,7 @@
   },
   "HL_Tortoise": {
     "DisplayName": "tortoise",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -15905,7 +15905,7 @@
   },
   "HL_Alphabeaver": {
     "DisplayName": "alphabeaver",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -16047,7 +16047,7 @@
   },
   "HL_Pig": {
     "DisplayName": "pig",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -16189,7 +16189,7 @@
   },
   "HL_WildBoar": {
     "DisplayName": "wild boar",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -16331,7 +16331,7 @@
   },
   "HL_Ibex": {
     "DisplayName": "ibex",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -16473,7 +16473,7 @@
   },
   "HL_Deer": {
     "DisplayName": "deer",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -16615,7 +16615,7 @@
   },
   "HL_Gazelle": {
     "DisplayName": "gazelle",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -16757,7 +16757,7 @@
   },
   "HL_Chinchilla": {
     "DisplayName": "chinchilla",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -16899,7 +16899,7 @@
   },
   "HL_Sheep": {
     "DisplayName": "sheep",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 315,
     "MinAge": 16,
@@ -17041,7 +17041,7 @@
   },
   "HL_Alpaca": {
     "DisplayName": "alpaca",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -17183,7 +17183,7 @@
   },
   "HL_Megasloth": {
     "DisplayName": "megasloth",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1050,
     "MinAge": 16,
@@ -17325,7 +17325,7 @@
   },
   "HL_Capybara": {
     "DisplayName": "capybara",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -17467,7 +17467,7 @@
   },
   "HL_Squirrel": {
     "DisplayName": "squirrel",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -17609,7 +17609,7 @@
   },
   "HL_Rat": {
     "DisplayName": "rat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -17751,7 +17751,7 @@
   },
   "HL_Boomrat": {
     "DisplayName": "boomrat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -17893,7 +17893,7 @@
   },
   "HL_Raccoon": {
     "DisplayName": "raccoon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -18035,7 +18035,7 @@
   },
   "HL_Iguana": {
     "DisplayName": "iguana",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -18177,7 +18177,7 @@
   },
   "HL_Warg": {
     "DisplayName": "warg",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -18319,7 +18319,7 @@
   },
   "HL_Wolf_Timber": {
     "DisplayName": "timber wolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -18461,7 +18461,7 @@
   },
   "HL_Wolf_Arctic": {
     "DisplayName": "arctic wolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -18603,7 +18603,7 @@
   },
   "HL_Fox_Fennec": {
     "DisplayName": "fennec fox",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -18745,7 +18745,7 @@
   },
   "HL_Fox_Red": {
     "DisplayName": "red fox",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -18887,7 +18887,7 @@
   },
   "HL_Fox_Arctic": {
     "DisplayName": "arctic fox",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -19029,7 +19029,7 @@
   },
   "HL_Dryad_Basic": {
     "DisplayName": "immature dryad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -19171,7 +19171,7 @@
   },
   "HL_Dryad_Woodmaker": {
     "DisplayName": "woodmaker dryad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -19313,7 +19313,7 @@
   },
   "HL_Dryad_Berrymaker": {
     "DisplayName": "berrymaker dryad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -19455,7 +19455,7 @@
   },
   "HL_Dryad_Medicinemaker": {
     "DisplayName": "medicinemaker dryad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -19597,7 +19597,7 @@
   },
   "HL_Dryad_Gaumaker": {
     "DisplayName": "gaumaker dryad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -19739,7 +19739,7 @@
   },
   "HL_Dryad_Carrier": {
     "DisplayName": "carrier dryad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -19881,7 +19881,7 @@
   },
   "HL_Dryad_Clawer": {
     "DisplayName": "clawer dryad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -20023,7 +20023,7 @@
   },
   "HL_Dryad_Barkskin": {
     "DisplayName": "barkskin dryad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -20307,7 +20307,7 @@
   },
   "HL_Toxalope": {
     "DisplayName": "toxalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -20449,7 +20449,7 @@
   },
   "HL_BogHound": {
     "DisplayName": "bog hound",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 330,
     "MinAge": 16,
@@ -20591,7 +20591,7 @@
   },
   "HL_MonitorLizard": {
     "DisplayName": "monitor lizard",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 260,
     "MinAge": 16,
@@ -20733,7 +20733,7 @@
   },
   "HL_PrairieDog": {
     "DisplayName": "prairie dog",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -20875,7 +20875,7 @@
   },
   "HL_Porcupine": {
     "DisplayName": "porcupine",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -21017,7 +21017,7 @@
   },
   "HL_Mastodon": {
     "DisplayName": "mastodon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1110,
     "MinAge": 16,
@@ -21159,7 +21159,7 @@
   },
   "HL_Cat_Scimitar": {
     "DisplayName": "scimitar cat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -21301,7 +21301,7 @@
   },
   "HL_Wolverine": {
     "DisplayName": "wolverine",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -21443,7 +21443,7 @@
   },
   "HL_Wolf_Great": {
     "DisplayName": "greatwolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -21585,7 +21585,7 @@
   },
   "HL_Moose": {
     "DisplayName": "moose",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 560,
     "MinAge": 16,
@@ -21727,7 +21727,7 @@
   },
   "HL_AlphaThrumbo": {
     "DisplayName": "alpha thrumbo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 10500,
     "MinAge": 16,
@@ -21869,7 +21869,7 @@
   },
   "HL_Muskox": {
     "DisplayName": "muskox",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 555,
     "MinAge": 16,
@@ -22011,7 +22011,7 @@
   },
   "HL_Tiger": {
     "DisplayName": "tiger",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -22153,7 +22153,7 @@
   },
   "HL_Mink": {
     "DisplayName": "mink",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 240,
     "MinAge": 16,
@@ -22295,7 +22295,7 @@
   },
   "HL_Gorilla": {
     "DisplayName": "gorilla",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -22437,7 +22437,7 @@
   },
   "HL_Badger": {
     "DisplayName": "badger",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -22579,7 +22579,7 @@
   },
   "HL_Panda": {
     "DisplayName": "panda",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -22721,7 +22721,7 @@
   },
   "HL_Hippo": {
     "DisplayName": "hippo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -22863,7 +22863,7 @@
   },
   "HL_Megavole": {
     "DisplayName": "megavole",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -23005,7 +23005,7 @@
   },
   "HL_Armadillo": {
     "DisplayName": "armadillo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -23147,7 +23147,7 @@
   },
   "HL_Alligator": {
     "DisplayName": "alligator",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -23289,7 +23289,7 @@
   },
   "HL_Bullfrog": {
     "DisplayName": "bullfrog",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -23431,7 +23431,7 @@
   },
   "HL_ColossusToad": {
     "DisplayName": "colossus toad",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 330,
     "MinAge": 16,
@@ -23573,7 +23573,7 @@
   },
   "HL_LavaSnail": {
     "DisplayName": "lava snail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 270,
     "MinAge": 16,
@@ -23715,7 +23715,7 @@
   },
   "HL_Sparrow": {
     "DisplayName": "sparrow",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -23857,7 +23857,7 @@
   },
   "HL_Crow": {
     "DisplayName": "crow",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -23999,7 +23999,7 @@
   },
   "HL_Bluebird": {
     "DisplayName": "bluebird",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -24141,7 +24141,7 @@
   },
   "HL_Quail": {
     "DisplayName": "quail",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -24283,7 +24283,7 @@
   },
   "HL_Macaw": {
     "DisplayName": "macaw",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 135,
     "MinAge": 16,
@@ -24425,7 +24425,7 @@
   },
   "HL_Flamingo": {
     "DisplayName": "flamingo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -24567,7 +24567,7 @@
   },
   "HL_Heron": {
     "DisplayName": "heron",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -24709,7 +24709,7 @@
   },
   "HL_Swan": {
     "DisplayName": "swan",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -24851,7 +24851,7 @@
   },
   "HL_Peacock": {
     "DisplayName": "peafowl",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 270,
     "MinAge": 16,
@@ -24993,7 +24993,7 @@
   },
   "HL_Vulture": {
     "DisplayName": "vulture",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -25135,7 +25135,7 @@
   },
   "HL_Penguin": {
     "DisplayName": "penguin",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -25277,7 +25277,7 @@
   },
   "HL_Walrus": {
     "DisplayName": "walrus",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 450,
     "MinAge": 16,
@@ -25419,7 +25419,7 @@
   },
   "HL_SeaLion": {
     "DisplayName": "sea lion",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 480,
     "MinAge": 16,
@@ -25561,7 +25561,7 @@
   },
   "HL_Seal": {
     "DisplayName": "seal",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 435,
     "MinAge": 16,
@@ -25703,7 +25703,7 @@
   },
   "HL_HermitCrab": {
     "DisplayName": "hermit crab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -25845,7 +25845,7 @@
   },
   "HL_StoneCrab": {
     "DisplayName": "stone crab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 120,
     "MinAge": 16,
@@ -25987,7 +25987,7 @@
   },
   "HL_SeaTurtle": {
     "DisplayName": "sea turtle",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -26129,7 +26129,7 @@
   },
   "HL_Otter": {
     "DisplayName": "otter",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -26271,7 +26271,7 @@
   },
   "HL_Larva": {
     "DisplayName": "larva",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -26413,7 +26413,7 @@
   },
   "HL_HiveQueen": {
     "DisplayName": "hive queen",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3000,
     "MinAge": 16,
@@ -26555,7 +26555,7 @@
   },
   "HL_Locust": {
     "DisplayName": "locust",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -26697,7 +26697,7 @@
   },
   "HL_Force_DarksideWraithRace": {
     "DisplayName": "Force Wraith",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 450,
     "MinAge": 16,
@@ -26839,7 +26839,7 @@
   },
   "HL_SithSorcery_Terentatek_Pawn": {
     "DisplayName": "terentatek",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 12000,
     "MinAge": 16,
@@ -26981,7 +26981,7 @@
   },
   "HL_VPE_SteelConstruct": {
     "DisplayName": "steel construct",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -27123,7 +27123,7 @@
   },
   "HL_VPE_RockConstruct": {
     "DisplayName": "rock construct",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -27265,7 +27265,7 @@
   },
   "HL_AA_BlackScarab_Temporary": {
     "DisplayName": "summoned black scarab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -27407,7 +27407,7 @@
   },
   "HL_AA_BlackSpelopede_Temporary": {
     "DisplayName": "summoned black spelopede",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -27549,7 +27549,7 @@
   },
   "HL_AA_BlackSpider_Temporary": {
     "DisplayName": "summoned blackspider",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -27691,7 +27691,7 @@
   },
   "HL_AA_MammothWorm_Temporary": {
     "DisplayName": "summoned mammoth worm",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -27833,7 +27833,7 @@
   },
   "HL_AA_BlackLarvae": {
     "DisplayName": "black larvae",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -27975,7 +27975,7 @@
   },
   "HL_AAVPE_BlackQueen": {
     "DisplayName": "summoned black queen",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2250,
     "MinAge": 16,
@@ -28117,7 +28117,7 @@
   },
   "HL_AA_OcularOriginator": {
     "DisplayName": "ocular originator",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1275,
     "MinAge": 16,
@@ -28259,7 +28259,7 @@
   },
   "HL_AA_Summoned_Eyeling": {
     "DisplayName": "summoned eyeling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -28401,7 +28401,7 @@
   },
   "HL_AA_AcanthamoebaGiganteaSmall": {
     "DisplayName": "acanthamoeba gigantea, small",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -28543,7 +28543,7 @@
   },
   "HL_AA_AcanthamoebaGiganteaLarge": {
     "DisplayName": "acanthamoeba gigantea, large",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -28685,7 +28685,7 @@
   },
   "HL_AA_AcanthamoebaGiganteaHuge": {
     "DisplayName": "acanthamoeba gigantea, huge",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1050,
     "MinAge": 16,
@@ -28827,7 +28827,7 @@
   },
   "HL_AA_Aerofleet": {
     "DisplayName": "aerofleet",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -28969,7 +28969,7 @@
   },
   "HL_AA_ColossalAerofleet": {
     "DisplayName": "colossal aerofleet",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -29111,7 +29111,7 @@
   },
   "HL_AA_Agaripawn": {
     "DisplayName": "agaripawn",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -29253,7 +29253,7 @@
   },
   "HL_AA_Agaripod": {
     "DisplayName": "agaripod",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -29395,7 +29395,7 @@
   },
   "HL_AA_AngelMothLarva": {
     "DisplayName": "angel moth larva",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 22,
     "MinAge": 16,
@@ -29537,7 +29537,7 @@
   },
   "HL_AA_AngelMoth": {
     "DisplayName": "angel moth",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -29679,7 +29679,7 @@
   },
   "HL_AA_AnimaColossus": {
     "DisplayName": "anima colossus",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -29821,7 +29821,7 @@
   },
   "HL_AA_Animalisk": {
     "DisplayName": "animalisk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -29963,7 +29963,7 @@
   },
   "HL_AA_AnimusVox": {
     "DisplayName": "animus vox",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 450,
     "MinAge": 16,
@@ -30105,7 +30105,7 @@
   },
   "HL_AA_ArcticLion": {
     "DisplayName": "arctic lion",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -30247,7 +30247,7 @@
   },
   "HL_AA_LarvalAtispec": {
     "DisplayName": "larval atispec",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 22,
     "MinAge": 16,
@@ -30389,7 +30389,7 @@
   },
   "HL_AA_Atispec": {
     "DisplayName": "atispec",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1800,
     "MinAge": 16,
@@ -30531,7 +30531,7 @@
   },
   "HL_AA_AuroraSylph": {
     "DisplayName": "Aurora sylph",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -30673,7 +30673,7 @@
   },
   "HL_AA_Barbslinger": {
     "DisplayName": "barbslinger",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -30815,7 +30815,7 @@
   },
   "HL_AA_BedBug": {
     "DisplayName": "bedbug",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -30957,7 +30957,7 @@
   },
   "HL_AA_Behemoth": {
     "DisplayName": "Behemoth",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75000,
     "MinAge": 16,
@@ -31099,7 +31099,7 @@
   },
   "HL_AA_BlackScarab": {
     "DisplayName": "black scarab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -31241,7 +31241,7 @@
   },
   "HL_AA_BlackSpelopede": {
     "DisplayName": "black spelopede",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -31383,7 +31383,7 @@
   },
   "HL_AA_BlackSpider": {
     "DisplayName": "blackspider",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -31525,7 +31525,7 @@
   },
   "HL_AA_Blizzarisk": {
     "DisplayName": "blizzarisk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -31667,7 +31667,7 @@
   },
   "HL_AA_BlizzariskClutchMother": {
     "DisplayName": "blizzarisk clutch mother",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1350,
     "MinAge": 16,
@@ -31809,7 +31809,7 @@
   },
   "HL_AA_BloodShrimp": {
     "DisplayName": "blood shrimp",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -31951,7 +31951,7 @@
   },
   "HL_AA_Bobeene": {
     "DisplayName": "bobeene",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -32093,7 +32093,7 @@
   },
   "HL_AA_BoulderMit": {
     "DisplayName": "bouldermit",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -32235,7 +32235,7 @@
   },
   "HL_AA_SummitCrab": {
     "DisplayName": "summit crab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2250,
     "MinAge": 16,
@@ -32377,7 +32377,7 @@
   },
   "HL_AA_Bumbledrone": {
     "DisplayName": "bumbledrone",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -32519,7 +32519,7 @@
   },
   "HL_AA_BumbledroneHierophant": {
     "DisplayName": "bumbledrone hierophant",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -32661,7 +32661,7 @@
   },
   "HL_AA_BumbledroneQueen": {
     "DisplayName": "bumbledrone queen",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -32803,7 +32803,7 @@
   },
   "HL_AA_Cactipine": {
     "DisplayName": "cactipine",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -32945,7 +32945,7 @@
   },
   "HL_AA_ChameleonYak": {
     "DisplayName": "chameleon yak",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -33087,7 +33087,7 @@
   },
   "HL_AA_ChemfuelMyrmidon": {
     "DisplayName": "chemfuel myrmidon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -33229,7 +33229,7 @@
   },
   "HL_AA_Cinderlisk": {
     "DisplayName": "cinderlisk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 860,
     "MinAge": 16,
@@ -33371,7 +33371,7 @@
   },
   "HL_AA_CrepuscularBeetle": {
     "DisplayName": "Crepuscular Beetle",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -33513,7 +33513,7 @@
   },
   "HL_AA_CrescendoAnole": {
     "DisplayName": "crescendo anole",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -33655,7 +33655,7 @@
   },
   "HL_AA_CrystallineCaracal": {
     "DisplayName": "crystalline caracal",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -33797,7 +33797,7 @@
   },
   "HL_AA_CrystalMit": {
     "DisplayName": "crystalmit",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -33939,7 +33939,7 @@
   },
   "HL_AA_Darkbeast": {
     "DisplayName": "darkbeast",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -34081,7 +34081,7 @@
   },
   "HL_AA_DarkVandal": {
     "DisplayName": "dark vandal",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -34223,7 +34223,7 @@
   },
   "HL_AA_DecayDrake": {
     "DisplayName": "decay drake",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -34365,7 +34365,7 @@
   },
   "HL_AA_DesertAve": {
     "DisplayName": "desert ave",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -34507,7 +34507,7 @@
   },
   "HL_AA_DevilSheep": {
     "DisplayName": "devil sheep",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1200,
     "MinAge": 16,
@@ -34649,7 +34649,7 @@
   },
   "HL_AA_DrainerLarva": {
     "DisplayName": "drainer larva",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 22,
     "MinAge": 16,
@@ -34791,7 +34791,7 @@
   },
   "HL_AA_Drainer": {
     "DisplayName": "drainer",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -34933,7 +34933,7 @@
   },
   "HL_AA_Dunealisk": {
     "DisplayName": "dunealisk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -35075,7 +35075,7 @@
   },
   "HL_AA_DunealiskClutchMother": {
     "DisplayName": "dunealisk clutch mother",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1350,
     "MinAge": 16,
@@ -35217,7 +35217,7 @@
   },
   "HL_AA_DuskProwler": {
     "DisplayName": "dusk prowler",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -35359,7 +35359,7 @@
   },
   "HL_AA_DuskRat": {
     "DisplayName": "dusk rat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -35501,7 +35501,7 @@
   },
   "HL_AA_EmpressButterflyLarva": {
     "DisplayName": "Empress butterfly larva",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75,
     "MinAge": 16,
@@ -35643,7 +35643,7 @@
   },
   "HL_AA_EmpressButterfly": {
     "DisplayName": "Empress butterfly",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -35785,7 +35785,7 @@
   },
   "HL_AA_EngorgedTentacularAberration": {
     "DisplayName": "engorged tentacular aberration",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -35927,7 +35927,7 @@
   },
   "HL_AA_Erin": {
     "DisplayName": "erin",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -36069,7 +36069,7 @@
   },
   "HL_AA_Eyeling": {
     "DisplayName": "eyeling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -36211,7 +36211,7 @@
   },
   "HL_AA_Feralisk": {
     "DisplayName": "feralisk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -36353,7 +36353,7 @@
   },
   "HL_AA_FeraliskClutchMother": {
     "DisplayName": "feralisk clutch mother",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1350,
     "MinAge": 16,
@@ -36495,7 +36495,7 @@
   },
   "HL_AA_FireWasp": {
     "DisplayName": "fire wasp",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -36637,7 +36637,7 @@
   },
   "HL_AA_FissionMouse": {
     "DisplayName": "fission mouse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -36779,7 +36779,7 @@
   },
   "HL_AA_FissionMouseSecond": {
     "DisplayName": "fission mouse, second generation",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -36921,7 +36921,7 @@
   },
   "HL_AA_FissionMouseThird": {
     "DisplayName": "fission mouse, third generation",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -37063,7 +37063,7 @@
   },
   "HL_AA_FlamingoPhoenix": {
     "DisplayName": "flamingo phoenix",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -37205,7 +37205,7 @@
   },
   "HL_AA_FrostAve": {
     "DisplayName": "frost ave",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -37347,7 +37347,7 @@
   },
   "HL_AA_FrostboundBehemoth": {
     "DisplayName": "frostbound behemoth",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -37489,7 +37489,7 @@
   },
   "HL_AA_Frostling": {
     "DisplayName": "frostling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -37631,7 +37631,7 @@
   },
   "HL_AA_FrostLynx": {
     "DisplayName": "frost lynx",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 560,
     "MinAge": 16,
@@ -37773,7 +37773,7 @@
   },
   "HL_AA_Frostmite": {
     "DisplayName": "frostmite",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -37915,7 +37915,7 @@
   },
   "HL_AA_FungalHusk": {
     "DisplayName": "fungal husk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -38057,7 +38057,7 @@
   },
   "HL_AA_Gallatross": {
     "DisplayName": "gallatross",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15000,
     "MinAge": 16,
@@ -38199,7 +38199,7 @@
   },
   "HL_AA_GallatrossMoribund": {
     "DisplayName": "moribund gallatross",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 11250,
     "MinAge": 16,
@@ -38341,7 +38341,7 @@
   },
   "HL_AA_Genix": {
     "DisplayName": "genix",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 560,
     "MinAge": 16,
@@ -38483,7 +38483,7 @@
   },
   "HL_AA_GiantCrownedSilkie": {
     "DisplayName": "giant crowned silkie",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -38625,7 +38625,7 @@
   },
   "HL_AA_Gigantelope": {
     "DisplayName": "gigantelope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -38767,7 +38767,7 @@
   },
   "HL_AA_GreatDevourer": {
     "DisplayName": "great devourer",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -38909,7 +38909,7 @@
   },
   "HL_AA_GreenGoo": {
     "DisplayName": "green goo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 187,
     "MinAge": 16,
@@ -39051,7 +39051,7 @@
   },
   "HL_AA_GreyCoatedMouflon": {
     "DisplayName": "Grey-Coated Mouflon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -39193,7 +39193,7 @@
   },
   "HL_AA_Groundrunner": {
     "DisplayName": "groundrunner",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -39335,7 +39335,7 @@
   },
   "HL_AA_Helixien": {
     "DisplayName": "helixien",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -39477,7 +39477,7 @@
   },
   "HL_AA_InfectedAerofleet": {
     "DisplayName": "infected aerofleet",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 270,
     "MinAge": 16,
@@ -39619,7 +39619,7 @@
   },
   "HL_AA_IronhuskBeetle": {
     "DisplayName": "ironhusk beetle",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -39761,7 +39761,7 @@
   },
   "HL_AA_Junglelisk": {
     "DisplayName": "junglelisk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -39903,7 +39903,7 @@
   },
   "HL_AA_Lockjaw": {
     "DisplayName": "lockjaw",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -40045,7 +40045,7 @@
   },
   "HL_AA_Locusts": {
     "DisplayName": "locusts",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 7,
     "MinAge": 16,
@@ -40187,7 +40187,7 @@
   },
   "HL_AA_LuciferBug": {
     "DisplayName": "luciferbug",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -40329,7 +40329,7 @@
   },
   "HL_AA_MammothWorm": {
     "DisplayName": "mammoth worm",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -40471,7 +40471,7 @@
   },
   "HL_AA_Mantrap": {
     "DisplayName": "mantrap",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -40613,7 +40613,7 @@
   },
   "HL_AA_MatureFleshbeast": {
     "DisplayName": "mature fleshbeast",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -40755,7 +40755,7 @@
   },
   "HL_AA_MeadowAve": {
     "DisplayName": "meadow ave",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -40897,7 +40897,7 @@
   },
   "HL_AA_MegaLouse": {
     "DisplayName": "megalouse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -41039,7 +41039,7 @@
   },
   "HL_AA_Metallovore": {
     "DisplayName": "metallovore",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -41181,7 +41181,7 @@
   },
   "HL_AA_Mime": {
     "DisplayName": "mime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -41323,7 +41323,7 @@
   },
   "HL_AA_Murkling": {
     "DisplayName": "murkling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -41465,7 +41465,7 @@
   },
   "HL_AA_MycoidColossus": {
     "DisplayName": "mycoid colossus",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -41607,7 +41607,7 @@
   },
   "HL_AA_Needlepost": {
     "DisplayName": "needlepost",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 945,
     "MinAge": 16,
@@ -41749,7 +41749,7 @@
   },
   "HL_AA_Needleroll": {
     "DisplayName": "needleroll",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -41891,7 +41891,7 @@
   },
   "HL_AA_NightMule": {
     "DisplayName": "nightmule",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -42033,7 +42033,7 @@
   },
   "HL_AA_NightAve": {
     "DisplayName": "night ave",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -42175,7 +42175,7 @@
   },
   "HL_AA_Nightling": {
     "DisplayName": "nightling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -42317,7 +42317,7 @@
   },
   "HL_AA_NightRam": {
     "DisplayName": "nightram",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -42459,7 +42459,7 @@
   },
   "HL_AA_OcularJelly": {
     "DisplayName": "ocular jelly",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -42601,7 +42601,7 @@
   },
   "HL_AA_OcularNightling": {
     "DisplayName": "ocular nightling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -42743,7 +42743,7 @@
   },
   "HL_AA_OvergrownColossus": {
     "DisplayName": "overgrown colossus",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -42885,7 +42885,7 @@
   },
   "HL_AA_PebbleMit": {
     "DisplayName": "pebblemit",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -43027,7 +43027,7 @@
   },
   "HL_AA_PedigreedRaptor": {
     "DisplayName": "pedigreed raptor",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1575,
     "MinAge": 16,
@@ -43169,7 +43169,7 @@
   },
   "HL_AA_PhoenixOwlcat": {
     "DisplayName": "phoenix owlcat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -43311,7 +43311,7 @@
   },
   "HL_AA_Plasmorph": {
     "DisplayName": "plasmorph",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -43453,7 +43453,7 @@
   },
   "HL_AA_Radyak": {
     "DisplayName": "radyak",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3750,
     "MinAge": 16,
@@ -43595,7 +43595,7 @@
   },
   "HL_AA_RaptorShrimp": {
     "DisplayName": "raptor shrimp",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -43737,7 +43737,7 @@
   },
   "HL_AA_Ravager": {
     "DisplayName": "ravager",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -43879,7 +43879,7 @@
   },
   "HL_AA_RayHound": {
     "DisplayName": "ray-hound",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -44021,7 +44021,7 @@
   },
   "HL_AA_Razorjack": {
     "DisplayName": "razorjack",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -44163,7 +44163,7 @@
   },
   "HL_AA_RedGoo": {
     "DisplayName": "red goo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -44305,7 +44305,7 @@
   },
   "HL_AA_RedSpore": {
     "DisplayName": "red spore",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -44447,7 +44447,7 @@
   },
   "HL_AA_RipperHound": {
     "DisplayName": "ripper hound",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -44589,7 +44589,7 @@
   },
   "HL_AA_RoughPlatedMonitor": {
     "DisplayName": "rough-plated monitor",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -44731,7 +44731,7 @@
   },
   "HL_AA_RoyalAve": {
     "DisplayName": "royal ave",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -44873,7 +44873,7 @@
   },
   "HL_AA_SandLion": {
     "DisplayName": "sand lion",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -45015,7 +45015,7 @@
   },
   "HL_AA_SandProwler": {
     "DisplayName": "sand prowler",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -45157,7 +45157,7 @@
   },
   "HL_AA_SandSquid": {
     "DisplayName": "sand squid",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -45299,7 +45299,7 @@
   },
   "HL_AA_ShadowCharger": {
     "DisplayName": "shadow charger",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -45441,7 +45441,7 @@
   },
   "HL_AA_ShockGoat": {
     "DisplayName": "shock goat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -45583,7 +45583,7 @@
   },
   "HL_AA_Skiphound": {
     "DisplayName": "skiphound",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -45725,7 +45725,7 @@
   },
   "HL_AA_Skyeel": {
     "DisplayName": "arcturan sky eel",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -45867,7 +45867,7 @@
   },
   "HL_AA_Slurrypede": {
     "DisplayName": "slurrypede",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -46009,7 +46009,7 @@
   },
   "HL_AA_SmallButterfly": {
     "DisplayName": "small butterflies",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 7,
     "MinAge": 16,
@@ -46151,7 +46151,7 @@
   },
   "HL_AA_SpinedGow": {
     "DisplayName": "spined gow",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -46293,7 +46293,7 @@
   },
   "HL_AA_Swarmling": {
     "DisplayName": "swarmling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 52,
     "MinAge": 16,
@@ -46435,7 +46435,7 @@
   },
   "HL_AA_TarGuzzler": {
     "DisplayName": "tar guzzler",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -46577,7 +46577,7 @@
   },
   "HL_AA_TeratogenicOriginator": {
     "DisplayName": "teratogenic originator",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1275,
     "MinAge": 16,
@@ -46719,7 +46719,7 @@
   },
   "HL_AA_Terramorph": {
     "DisplayName": "terramorph",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -46861,7 +46861,7 @@
   },
   "HL_AA_TetraSlug": {
     "DisplayName": "tetra slug",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6000,
     "MinAge": 16,
@@ -47003,7 +47003,7 @@
   },
   "HL_AA_Thermadon": {
     "DisplayName": "thermadon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -47145,7 +47145,7 @@
   },
   "HL_AA_Thunderbeast": {
     "DisplayName": "thunderbeast",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -47287,7 +47287,7 @@
   },
   "HL_AA_Thunderox": {
     "DisplayName": "thunderox",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -47429,7 +47429,7 @@
   },
   "HL_AA_UnblinkingEye": {
     "DisplayName": "unblinking eye",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1800,
     "MinAge": 16,
@@ -47571,7 +47571,7 @@
   },
   "HL_AA_Wildpawn": {
     "DisplayName": "wildpawn",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -47713,7 +47713,7 @@
   },
   "HL_AA_Wildpod": {
     "DisplayName": "wildpod",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -47855,7 +47855,7 @@
   },
   "HL_AA_WindBeast": {
     "DisplayName": "windbeast",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -47997,7 +47997,7 @@
   },
   "HL_RG_Hemolope": {
     "DisplayName": "hemolope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 930,
     "MinAge": 16,
@@ -48139,7 +48139,7 @@
   },
   "HL_RG_Rabbit": {
     "DisplayName": "rabbit",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75,
     "MinAge": 16,
@@ -48281,7 +48281,7 @@
   },
   "HL_RG_WoollyStegosaurus": {
     "DisplayName": "woolly stegosaurus",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1425,
     "MinAge": 16,
@@ -48423,7 +48423,7 @@
   },
   "HL_RG_Neutrolope": {
     "DisplayName": "neutrolope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 720,
     "MinAge": 16,
@@ -48565,7 +48565,7 @@
   },
   "HL_RG_Rimclaw": {
     "DisplayName": "rimclaw",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3750,
     "MinAge": 16,
@@ -48707,7 +48707,7 @@
   },
   "HL_RG_KiwiBird": {
     "DisplayName": "kiwi",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 120,
     "MinAge": 16,
@@ -48849,7 +48849,7 @@
   },
   "HL_Medieval_Conch": {
     "DisplayName": "Conchdragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3375,
     "MinAge": 16,
@@ -48991,7 +48991,7 @@
   },
   "HL_Epona_Sheep": {
     "DisplayName": "Gordyfu",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2250,
     "MinAge": 16,
@@ -49133,7 +49133,7 @@
   },
   "HL_Medieval_Snaildrake": {
     "DisplayName": "Snelldragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1875,
     "MinAge": 16,
@@ -49275,7 +49275,7 @@
   },
   "HL_IsekaiArchangel_Common": {
     "DisplayName": "archangel",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75000,
     "MinAge": 16,
@@ -49417,7 +49417,7 @@
   },
   "HL_IsekaiDemon_Lesser": {
     "DisplayName": "lesser demon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1200,
     "MinAge": 16,
@@ -49559,7 +49559,7 @@
   },
   "HL_IsekaiDemon_Common": {
     "DisplayName": "demon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3750,
     "MinAge": 16,
@@ -49701,7 +49701,7 @@
   },
   "HL_IsekaiDemon_Greater": {
     "DisplayName": "greater demon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 9000,
     "MinAge": 16,
@@ -49843,7 +49843,7 @@
   },
   "HL_IsekaiDragon_True": {
     "DisplayName": "true dragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 60000,
     "MinAge": 16,
@@ -49985,7 +49985,7 @@
   },
   "HL_IsekaiDragon_Ancient": {
     "DisplayName": "ancient dragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 120000,
     "MinAge": 16,
@@ -50127,7 +50127,7 @@
   },
   "HL_IsekaiGoblin_Runt": {
     "DisplayName": "goblin runt",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 120,
     "MinAge": 16,
@@ -50269,7 +50269,7 @@
   },
   "HL_IsekaiGoblin_Warrior": {
     "DisplayName": "goblin warrior",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -50411,7 +50411,7 @@
   },
   "HL_IsekaiGoblin_Hobgoblin": {
     "DisplayName": "hobgoblin",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -50553,7 +50553,7 @@
   },
   "HL_IsekaiGoblin_King": {
     "DisplayName": "goblin king",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3750,
     "MinAge": 16,
@@ -50695,7 +50695,7 @@
   },
   "HL_IsekaiGrandBeast_Midhir": {
     "DisplayName": "Midhir",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75000,
     "MinAge": 16,
@@ -50837,7 +50837,7 @@
   },
   "HL_IsekaiGrandBeast_WhaleOfTheMist": {
     "DisplayName": "Whale of the Mist",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75000,
     "MinAge": 16,
@@ -50979,7 +50979,7 @@
   },
   "HL_IsekaiGrandBeast_Midhir_Minion": {
     "DisplayName": "flying calamity",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 12000,
     "MinAge": 16,
@@ -51121,7 +51121,7 @@
   },
   "HL_IsekaiGrandBeast_Corcera": {
     "DisplayName": "Corcera",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75000,
     "MinAge": 16,
@@ -51263,7 +51263,7 @@
   },
   "HL_IsekaiHellOgre_Common": {
     "DisplayName": "hell ogre",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6750,
     "MinAge": 16,
@@ -51405,7 +51405,7 @@
   },
   "HL_IsekaiImp_Lesser": {
     "DisplayName": "lesser imp",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -51547,7 +51547,7 @@
   },
   "HL_IsekaiImp_Common": {
     "DisplayName": "imp",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1050,
     "MinAge": 16,
@@ -51689,7 +51689,7 @@
   },
   "HL_IsekaiImp_Greater": {
     "DisplayName": "greater imp",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3000,
     "MinAge": 16,
@@ -51831,7 +51831,7 @@
   },
   "HL_IsekaiKobold_Pup": {
     "DisplayName": "kobold pup",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75,
     "MinAge": 16,
@@ -51973,7 +51973,7 @@
   },
   "HL_IsekaiKobold_Warrior": {
     "DisplayName": "kobold warrior",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -52115,7 +52115,7 @@
   },
   "HL_IsekaiKobold_Chieftain": {
     "DisplayName": "kobold chieftain",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 420,
     "MinAge": 16,
@@ -52257,7 +52257,7 @@
   },
   "HL_IsekaiKobold_Queen": {
     "DisplayName": "kobold queen",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3450,
     "MinAge": 16,
@@ -52399,7 +52399,7 @@
   },
   "HL_IsekaiLich_Adult": {
     "DisplayName": "lich",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4500,
     "MinAge": 16,
@@ -52541,7 +52541,7 @@
   },
   "HL_IsekaiLich_Upper": {
     "DisplayName": "arc lich",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15000,
     "MinAge": 16,
@@ -52683,7 +52683,7 @@
   },
   "HL_IsekaiMinotaur_Adult": {
     "DisplayName": "minotaur",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3000,
     "MinAge": 16,
@@ -52825,7 +52825,7 @@
   },
   "HL_IsekaiMinotaur_Upper": {
     "DisplayName": "champion minotaur",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 8250,
     "MinAge": 16,
@@ -52967,7 +52967,7 @@
   },
   "HL_IsekaiOrc_Whelp": {
     "DisplayName": "orc whelp",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -53109,7 +53109,7 @@
   },
   "HL_IsekaiOrc_Warrior": {
     "DisplayName": "orc warrior",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -53251,7 +53251,7 @@
   },
   "HL_IsekaiOrc_Warlord": {
     "DisplayName": "orc warlord",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1800,
     "MinAge": 16,
@@ -53393,7 +53393,7 @@
   },
   "HL_IsekaiGoblin_Slinger": {
     "DisplayName": "goblin slinger",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -53535,7 +53535,7 @@
   },
   "HL_IsekaiGoblin_Archer": {
     "DisplayName": "goblin archer",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 270,
     "MinAge": 16,
@@ -53677,7 +53677,7 @@
   },
   "HL_IsekaiGoblin_Marksman": {
     "DisplayName": "hobgoblin marksman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -53819,7 +53819,7 @@
   },
   "HL_IsekaiKobold_Slinger": {
     "DisplayName": "kobold slinger",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 75,
     "MinAge": 16,
@@ -53961,7 +53961,7 @@
   },
   "HL_IsekaiKobold_Archer": {
     "DisplayName": "kobold archer",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 135,
     "MinAge": 16,
@@ -54103,7 +54103,7 @@
   },
   "HL_IsekaiKobold_Hunter": {
     "DisplayName": "kobold hunter",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -54245,7 +54245,7 @@
   },
   "HL_IsekaiImp_Firethrower": {
     "DisplayName": "lesser imp firethrower",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -54387,7 +54387,7 @@
   },
   "HL_IsekaiImp_Caster": {
     "DisplayName": "imp fire-caster",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -54529,7 +54529,7 @@
   },
   "HL_IsekaiImp_Pyromancer": {
     "DisplayName": "greater imp pyromancer",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1200,
     "MinAge": 16,
@@ -54671,7 +54671,7 @@
   },
   "HL_IsekaiSlime_Blue_Small": {
     "DisplayName": "small blue slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -54813,7 +54813,7 @@
   },
   "HL_IsekaiSlime_Blue_Medium": {
     "DisplayName": "blue slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -54955,7 +54955,7 @@
   },
   "HL_IsekaiSlime_Blue_Large": {
     "DisplayName": "great blue slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -55097,7 +55097,7 @@
   },
   "HL_IsekaiSlime_Green_Small": {
     "DisplayName": "small green slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -55239,7 +55239,7 @@
   },
   "HL_IsekaiSlime_Green_Medium": {
     "DisplayName": "green slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -55381,7 +55381,7 @@
   },
   "HL_IsekaiSlime_Green_Large": {
     "DisplayName": "great green slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -55523,7 +55523,7 @@
   },
   "HL_IsekaiSlime_Mud_Small": {
     "DisplayName": "small mud slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -55665,7 +55665,7 @@
   },
   "HL_IsekaiSlime_Mud_Medium": {
     "DisplayName": "mud slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -55807,7 +55807,7 @@
   },
   "HL_IsekaiSlime_Mud_Large": {
     "DisplayName": "great mud slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -55949,7 +55949,7 @@
   },
   "HL_IsekaiSlime_Red_Small": {
     "DisplayName": "small red slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -56091,7 +56091,7 @@
   },
   "HL_IsekaiSlime_Red_Medium": {
     "DisplayName": "red slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -56233,7 +56233,7 @@
   },
   "HL_IsekaiSlime_Red_Large": {
     "DisplayName": "great red slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -56375,7 +56375,7 @@
   },
   "HL_IsekaiSlime_Sky_Small": {
     "DisplayName": "small sky slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -56517,7 +56517,7 @@
   },
   "HL_IsekaiSlime_Sky_Medium": {
     "DisplayName": "sky slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -56659,7 +56659,7 @@
   },
   "HL_IsekaiSlime_Sky_Large": {
     "DisplayName": "great sky slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -56801,7 +56801,7 @@
   },
   "HL_IsekaiSlime_Yellow_Small": {
     "DisplayName": "small yellow slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -56943,7 +56943,7 @@
   },
   "HL_IsekaiSlime_Yellow_Medium": {
     "DisplayName": "yellow slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -57085,7 +57085,7 @@
   },
   "HL_IsekaiSlime_Yellow_Large": {
     "DisplayName": "great yellow slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -57227,7 +57227,7 @@
   },
   "HL_IsekaiSlime_Poison_Small": {
     "DisplayName": "small poison slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -57369,7 +57369,7 @@
   },
   "HL_IsekaiSlime_Poison_Medium": {
     "DisplayName": "poison slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -57511,7 +57511,7 @@
   },
   "HL_IsekaiSlime_Poison_Large": {
     "DisplayName": "great poison slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -57653,7 +57653,7 @@
   },
   "HL_IsekaiSlime_Frost_Small": {
     "DisplayName": "small frost slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -57795,7 +57795,7 @@
   },
   "HL_IsekaiSlime_Frost_Medium": {
     "DisplayName": "frost slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -57937,7 +57937,7 @@
   },
   "HL_IsekaiSlime_Frost_Large": {
     "DisplayName": "great frost slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -58079,7 +58079,7 @@
   },
   "HL_IsekaiSlime_Spark_Small": {
     "DisplayName": "small spark slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 45,
     "MinAge": 16,
@@ -58221,7 +58221,7 @@
   },
   "HL_IsekaiSlime_Spark_Medium": {
     "DisplayName": "spark slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 90,
     "MinAge": 16,
@@ -58363,7 +58363,7 @@
   },
   "HL_IsekaiSlime_Spark_Large": {
     "DisplayName": "great spark slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -58505,7 +58505,7 @@
   },
   "HL_IsekaiSlime_Metal_Small": {
     "DisplayName": "small metal slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -58647,7 +58647,7 @@
   },
   "HL_IsekaiSlime_Metal_Medium": {
     "DisplayName": "metal slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -58789,7 +58789,7 @@
   },
   "HL_IsekaiSlime_Metal_Large": {
     "DisplayName": "great metal slime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2250,
     "MinAge": 16,
@@ -58931,7 +58931,7 @@
   },
   "HL_IsekaiTreant_Sapling": {
     "DisplayName": "treant sapling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1050,
     "MinAge": 16,
@@ -59073,7 +59073,7 @@
   },
   "HL_IsekaiTreant_Adult": {
     "DisplayName": "treant",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3300,
     "MinAge": 16,
@@ -59215,7 +59215,7 @@
   },
   "HL_IsekaiTreant_Upper": {
     "DisplayName": "ancient treant",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 8250,
     "MinAge": 16,
@@ -59357,7 +59357,7 @@
   },
   "HL_IsekaiTroll_Baby": {
     "DisplayName": "troll baby",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -59499,7 +59499,7 @@
   },
   "HL_IsekaiTroll_Adult": {
     "DisplayName": "troll",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2700,
     "MinAge": 16,
@@ -59641,7 +59641,7 @@
   },
   "HL_IsekaiTroll_Upper": {
     "DisplayName": "upper troll",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 7500,
     "MinAge": 16,
@@ -59783,7 +59783,7 @@
   },
   "HL_IsekaiValkyrie_Common": {
     "DisplayName": "valkyrie",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 22500,
     "MinAge": 16,
@@ -59925,7 +59925,7 @@
   },
   "HL_IsekaiWyvern_Normal": {
     "DisplayName": "wyvern",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4200,
     "MinAge": 16,
@@ -60067,7 +60067,7 @@
   },
   "HL_IsekaiWyvern_Ice": {
     "DisplayName": "ice wyvern",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4800,
     "MinAge": 16,
@@ -60209,7 +60209,7 @@
   },
   "HL_IsekaiWyvern_Rock": {
     "DisplayName": "rock wyvern",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 5250,
     "MinAge": 16,
@@ -60351,7 +60351,7 @@
   },
   "HL_IsekaiWyvern_Sand": {
     "DisplayName": "sand wyvern",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4800,
     "MinAge": 16,
@@ -60493,7 +60493,7 @@
   },
   "HL_IsekaiWyvern_Poison": {
     "DisplayName": "poison wyvern",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4950,
     "MinAge": 16,
@@ -60635,7 +60635,7 @@
   },
   "HL_IsekaiWyvern_Dark": {
     "DisplayName": "dark wyvern",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6000,
     "MinAge": 16,
@@ -60777,7 +60777,7 @@
   },
   "HL_RK_KingHamster": {
     "DisplayName": "king hamster",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -60919,7 +60919,7 @@
   },
   "HL_GR_BearBug": {
     "DisplayName": "bear bug",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -61061,7 +61061,7 @@
   },
   "HL_GR_Boomalisk": {
     "DisplayName": "boomalisk",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 900,
     "MinAge": 16,
@@ -61203,7 +61203,7 @@
   },
   "HL_GR_Needlechicken": {
     "DisplayName": "needlechicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -61345,7 +61345,7 @@
   },
   "HL_GR_Beetlefleet": {
     "DisplayName": "beetlefleet",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 260,
     "MinAge": 16,
@@ -61487,7 +61487,7 @@
   },
   "HL_GR_Groundffalo": {
     "DisplayName": "groundffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -61629,7 +61629,7 @@
   },
   "HL_GR_MeadowLizard": {
     "DisplayName": "meadow lizard",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -61771,7 +61771,7 @@
   },
   "HL_GR_AnimusHare": {
     "DisplayName": "animus hare",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -61913,7 +61913,7 @@
   },
   "HL_GR_Nighthrumbo": {
     "DisplayName": "nighthrumbo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2250,
     "MinAge": 16,
@@ -62055,7 +62055,7 @@
   },
   "HL_GR_WolfShrimp": {
     "DisplayName": "wolf shrimp",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1275,
     "MinAge": 16,
@@ -62197,7 +62197,7 @@
   },
   "HL_GR_ArchotechCentipede": {
     "DisplayName": "archocentipede",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6000000,
     "MinAge": 16,
@@ -62339,7 +62339,7 @@
   },
   "HL_GR_Chickenbear": {
     "DisplayName": "chickenbear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 172,
     "MinAge": 16,
@@ -62481,7 +62481,7 @@
   },
   "HL_GR_Chickenlope": {
     "DisplayName": "chickenlope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 142,
     "MinAge": 16,
@@ -62623,7 +62623,7 @@
   },
   "HL_GR_Chickenffalo": {
     "DisplayName": "chickenffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 260,
     "MinAge": 16,
@@ -62765,7 +62765,7 @@
   },
   "HL_GR_Chickenwolf": {
     "DisplayName": "chickenwolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -62907,7 +62907,7 @@
   },
   "HL_GR_Chickenrabbit": {
     "DisplayName": "chickenrabbit",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 67,
     "MinAge": 16,
@@ -63049,7 +63049,7 @@
   },
   "HL_GR_Chickencat": {
     "DisplayName": "chickencat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -63191,7 +63191,7 @@
   },
   "HL_GR_Turkeyman": {
     "DisplayName": "turkeyman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -63333,7 +63333,7 @@
   },
   "HL_GR_Boomabear": {
     "DisplayName": "boomabear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 560,
     "MinAge": 16,
@@ -63475,7 +63475,7 @@
   },
   "HL_GR_Boomachicken": {
     "DisplayName": "boomachicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -63617,7 +63617,7 @@
   },
   "HL_GR_Boomffalo": {
     "DisplayName": "boomffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 345,
     "MinAge": 16,
@@ -63759,7 +63759,7 @@
   },
   "HL_GR_Boomwolf": {
     "DisplayName": "boomwolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -63901,7 +63901,7 @@
   },
   "HL_GR_Boomsquirrel": {
     "DisplayName": "boomsquirrel",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -64043,7 +64043,7 @@
   },
   "HL_GR_Boomcat": {
     "DisplayName": "boomcat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -64185,7 +64185,7 @@
   },
   "HL_GR_Booman": {
     "DisplayName": "booman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 410,
     "MinAge": 16,
@@ -64327,7 +64327,7 @@
   },
   "HL_GR_Wolfbear": {
     "DisplayName": "wolfbear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 555,
     "MinAge": 16,
@@ -64469,7 +64469,7 @@
   },
   "HL_GR_Wolfalope": {
     "DisplayName": "wolfalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 555,
     "MinAge": 16,
@@ -64611,7 +64611,7 @@
   },
   "HL_GR_Wolfchicken": {
     "DisplayName": "wolfchicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 555,
     "MinAge": 16,
@@ -64753,7 +64753,7 @@
   },
   "HL_GR_Wolffalo": {
     "DisplayName": "wolffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 555,
     "MinAge": 16,
@@ -64895,7 +64895,7 @@
   },
   "HL_GR_Wolfbeaver": {
     "DisplayName": "wolfbeaver",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 410,
     "MinAge": 16,
@@ -65037,7 +65037,7 @@
   },
   "HL_GR_Wolfcat": {
     "DisplayName": "wolfcat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 555,
     "MinAge": 16,
@@ -65179,7 +65179,7 @@
   },
   "HL_GR_Dogman": {
     "DisplayName": "dogman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -65321,7 +65321,7 @@
   },
   "HL_GR_Thrumbear": {
     "DisplayName": "thrumbear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6750,
     "MinAge": 16,
@@ -65463,7 +65463,7 @@
   },
   "HL_GR_Thrumbalope": {
     "DisplayName": "thrumbalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4500,
     "MinAge": 16,
@@ -65605,7 +65605,7 @@
   },
   "HL_GR_Thrumbochicken": {
     "DisplayName": "thrumbochicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4500,
     "MinAge": 16,
@@ -65747,7 +65747,7 @@
   },
   "HL_GR_Thrumffalo": {
     "DisplayName": "thrumffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 5250,
     "MinAge": 16,
@@ -65889,7 +65889,7 @@
   },
   "HL_GR_Thrumwolf": {
     "DisplayName": "thrumwolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3750,
     "MinAge": 16,
@@ -66031,7 +66031,7 @@
   },
   "HL_GR_Thrumbocat": {
     "DisplayName": "thrumbocat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2625,
     "MinAge": 16,
@@ -66173,7 +66173,7 @@
   },
   "HL_GR_Thrumbospider": {
     "DisplayName": "thrumbospider",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3750,
     "MinAge": 16,
@@ -66315,7 +66315,7 @@
   },
   "HL_GR_Thrumbolizard": {
     "DisplayName": "thrumbolizard",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6750,
     "MinAge": 16,
@@ -66457,7 +66457,7 @@
   },
   "HL_GR_Thrumborat": {
     "DisplayName": "thrumborat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3600,
     "MinAge": 16,
@@ -66599,7 +66599,7 @@
   },
   "HL_GR_Thrumhorse": {
     "DisplayName": "thrumhorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6750,
     "MinAge": 16,
@@ -66741,7 +66741,7 @@
   },
   "HL_GR_Thrumboman": {
     "DisplayName": "thrumboman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6000,
     "MinAge": 16,
@@ -66883,7 +66883,7 @@
   },
   "HL_GR_Bearhorse": {
     "DisplayName": "bearhorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1275,
     "MinAge": 16,
@@ -67025,7 +67025,7 @@
   },
   "HL_GR_Boomhorse": {
     "DisplayName": "boomhorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -67167,7 +67167,7 @@
   },
   "HL_GR_Chickenhorse": {
     "DisplayName": "chickenhorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -67309,7 +67309,7 @@
   },
   "HL_GR_Cathorse": {
     "DisplayName": "cathorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -67451,7 +67451,7 @@
   },
   "HL_GR_Molehorse": {
     "DisplayName": "molehorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -67593,7 +67593,7 @@
   },
   "HL_GR_Wolfhorse": {
     "DisplayName": "wolfhorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1275,
     "MinAge": 16,
@@ -67735,7 +67735,7 @@
   },
   "HL_GR_Muffalohorse": {
     "DisplayName": "muffalohorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1425,
     "MinAge": 16,
@@ -67877,7 +67877,7 @@
   },
   "HL_GR_Crocorse": {
     "DisplayName": "crocorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1425,
     "MinAge": 16,
@@ -68019,7 +68019,7 @@
   },
   "HL_GR_Spiderhorse": {
     "DisplayName": "spiderhorse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1275,
     "MinAge": 16,
@@ -68161,7 +68161,7 @@
   },
   "HL_GR_Hurseman": {
     "DisplayName": "hurseman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -68303,7 +68303,7 @@
   },
   "HL_GR_Fleshling": {
     "DisplayName": "fleshling",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15,
     "MinAge": 16,
@@ -68445,7 +68445,7 @@
   },
   "HL_GR_AberrantFleshbeast": {
     "DisplayName": "aberrant fleshbeast",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15,
     "MinAge": 16,
@@ -68587,7 +68587,7 @@
   },
   "HL_GR_FleshMonstrosity": {
     "DisplayName": "flesh monstrosity",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15,
     "MinAge": 16,
@@ -68729,7 +68729,7 @@
   },
   "HL_GR_FleshGrowth": {
     "DisplayName": "flesh growth",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15,
     "MinAge": 16,
@@ -68871,7 +68871,7 @@
   },
   "HL_GR_FleshFlies": {
     "DisplayName": "flesh flies",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15,
     "MinAge": 16,
@@ -69013,7 +69013,7 @@
   },
   "HL_GR_Catbear": {
     "DisplayName": "catbear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -69155,7 +69155,7 @@
   },
   "HL_GR_Catalope": {
     "DisplayName": "catalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 187,
     "MinAge": 16,
@@ -69297,7 +69297,7 @@
   },
   "HL_GR_Catchicken": {
     "DisplayName": "catchicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 165,
     "MinAge": 16,
@@ -69439,7 +69439,7 @@
   },
   "HL_GR_Catffalo": {
     "DisplayName": "catffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -69581,7 +69581,7 @@
   },
   "HL_GR_Catrabbit": {
     "DisplayName": "catrabbit",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -69723,7 +69723,7 @@
   },
   "HL_GR_Catwolf": {
     "DisplayName": "catwolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -69865,7 +69865,7 @@
   },
   "HL_GR_Catman": {
     "DisplayName": "catman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 260,
     "MinAge": 16,
@@ -70007,7 +70007,7 @@
   },
   "HL_GR_Manbear": {
     "DisplayName": "manbear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -70149,7 +70149,7 @@
   },
   "HL_GR_Manalope": {
     "DisplayName": "manalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 270,
     "MinAge": 16,
@@ -70291,7 +70291,7 @@
   },
   "HL_GR_Manchicken": {
     "DisplayName": "manchicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1575,
     "MinAge": 16,
@@ -70433,7 +70433,7 @@
   },
   "HL_GR_Manffalo": {
     "DisplayName": "manffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -70575,7 +70575,7 @@
   },
   "HL_GR_Manwolf": {
     "DisplayName": "manwolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -70717,7 +70717,7 @@
   },
   "HL_GR_Mancat": {
     "DisplayName": "mancat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -70859,7 +70859,7 @@
   },
   "HL_GR_Mansquirrel": {
     "DisplayName": "mansquirrel",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -71001,7 +71001,7 @@
   },
   "HL_GR_Bearscarab": {
     "DisplayName": "bearscarab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -71143,7 +71143,7 @@
   },
   "HL_GR_Boombeetle": {
     "DisplayName": "boombeetle",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -71285,7 +71285,7 @@
   },
   "HL_GR_Chickenspider": {
     "DisplayName": "chickenspider",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -71427,7 +71427,7 @@
   },
   "HL_GR_Muffalopede": {
     "DisplayName": "muffalopede",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -71569,7 +71569,7 @@
   },
   "HL_GR_Wolfscarab": {
     "DisplayName": "wolfscarab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -71711,7 +71711,7 @@
   },
   "HL_GR_Spidercat": {
     "DisplayName": "spidercat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -71853,7 +71853,7 @@
   },
   "HL_GR_Manscarab": {
     "DisplayName": "manscarab",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -71995,7 +71995,7 @@
   },
   "HL_GR_Mechabear": {
     "DisplayName": "mechabear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4500,
     "MinAge": 16,
@@ -72137,7 +72137,7 @@
   },
   "HL_GR_Mechalope": {
     "DisplayName": "mechalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 4500,
     "MinAge": 16,
@@ -72279,7 +72279,7 @@
   },
   "HL_GR_Mechachicken": {
     "DisplayName": "mecha-chicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2250,
     "MinAge": 16,
@@ -72421,7 +72421,7 @@
   },
   "HL_GR_Mechaspider": {
     "DisplayName": "mechaspider",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 5250,
     "MinAge": 16,
@@ -72563,7 +72563,7 @@
   },
   "HL_GR_Mechamuffalo": {
     "DisplayName": "mecha-muffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 5250,
     "MinAge": 16,
@@ -72705,7 +72705,7 @@
   },
   "HL_GR_Mecharat": {
     "DisplayName": "mecha-rat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -72847,7 +72847,7 @@
   },
   "HL_GR_Mechaturtle": {
     "DisplayName": "mechaturtle",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3000,
     "MinAge": 16,
@@ -72989,7 +72989,7 @@
   },
   "HL_GR_Mechawolf": {
     "DisplayName": "mechawolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 3000,
     "MinAge": 16,
@@ -73131,7 +73131,7 @@
   },
   "HL_GR_Mechathrumbo": {
     "DisplayName": "mechathrumbo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 6000,
     "MinAge": 16,
@@ -73273,7 +73273,7 @@
   },
   "HL_GR_Mechacat": {
     "DisplayName": "mechacat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2700,
     "MinAge": 16,
@@ -73415,7 +73415,7 @@
   },
   "HL_GR_Mechahorse": {
     "DisplayName": "mecha-horse",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2700,
     "MinAge": 16,
@@ -73557,7 +73557,7 @@
   },
   "HL_GR_Mechamime": {
     "DisplayName": "mecha-mime",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 2700,
     "MinAge": 16,
@@ -73699,7 +73699,7 @@
   },
   "HL_GR_Muffalobear": {
     "DisplayName": "muffalobear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -73841,7 +73841,7 @@
   },
   "HL_GR_Muffalope": {
     "DisplayName": "muffalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 525,
     "MinAge": 16,
@@ -73983,7 +73983,7 @@
   },
   "HL_GR_Muffalochicken": {
     "DisplayName": "muffalochicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 375,
     "MinAge": 16,
@@ -74125,7 +74125,7 @@
   },
   "HL_GR_Muffalowolf": {
     "DisplayName": "muffalowolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -74267,7 +74267,7 @@
   },
   "HL_GR_Muffalocat": {
     "DisplayName": "muffalocat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -74409,7 +74409,7 @@
   },
   "HL_GR_Muffalorat": {
     "DisplayName": "muffalorat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 157,
     "MinAge": 16,
@@ -74551,7 +74551,7 @@
   },
   "HL_GR_Muffaloman": {
     "DisplayName": "muffaloman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -74693,7 +74693,7 @@
   },
   "HL_GR_ParagonBear": {
     "DisplayName": "ursine paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1650,
     "MinAge": 16,
@@ -74835,7 +74835,7 @@
   },
   "HL_GR_ParagonBoomalope": {
     "DisplayName": "boomalope paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 870,
     "MinAge": 16,
@@ -74977,7 +74977,7 @@
   },
   "HL_GR_ParagonChicken": {
     "DisplayName": "avian paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -75119,7 +75119,7 @@
   },
   "HL_GR_ParagonMuffalo": {
     "DisplayName": "muffalo paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1500,
     "MinAge": 16,
@@ -75261,7 +75261,7 @@
   },
   "HL_GR_ParagonWolf": {
     "DisplayName": "canine paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1110,
     "MinAge": 16,
@@ -75403,7 +75403,7 @@
   },
   "HL_GR_ParagonRat": {
     "DisplayName": "rodent paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 180,
     "MinAge": 16,
@@ -75545,7 +75545,7 @@
   },
   "HL_GR_ParagonIguana": {
     "DisplayName": "reptile paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 300,
     "MinAge": 16,
@@ -75687,7 +75687,7 @@
   },
   "HL_GR_ParagonHorse": {
     "DisplayName": "equine paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -75829,7 +75829,7 @@
   },
   "HL_GR_ParagonThrumbo": {
     "DisplayName": "colossal paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 7500,
     "MinAge": 16,
@@ -76113,7 +76113,7 @@
   },
   "HL_GR_ParagonFeline": {
     "DisplayName": "feline paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1275,
     "MinAge": 16,
@@ -76255,7 +76255,7 @@
   },
   "HL_GR_ParagonInsectoid": {
     "DisplayName": "insectoid paragon",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 1125,
     "MinAge": 16,
@@ -76397,7 +76397,7 @@
   },
   "HL_GR_Bearodile": {
     "DisplayName": "bearodile",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -76539,7 +76539,7 @@
   },
   "HL_GR_Boomsnake": {
     "DisplayName": "boomsnake",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -76681,7 +76681,7 @@
   },
   "HL_GR_Chickenlizard": {
     "DisplayName": "chickenlizard",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 225,
     "MinAge": 16,
@@ -76823,7 +76823,7 @@
   },
   "HL_GR_Muffalokomodo": {
     "DisplayName": "muffalokomodo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -76965,7 +76965,7 @@
   },
   "HL_GR_Spidersnake": {
     "DisplayName": "spidersnake",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -77107,7 +77107,7 @@
   },
   "HL_GR_Wolfsnake": {
     "DisplayName": "wolfsnake",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 675,
     "MinAge": 16,
@@ -77249,7 +77249,7 @@
   },
   "HL_GR_Snakecat": {
     "DisplayName": "snakecat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -77391,7 +77391,7 @@
   },
   "HL_GR_Lizardman": {
     "DisplayName": "lizardman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -77533,7 +77533,7 @@
   },
   "HL_GR_Molebear": {
     "DisplayName": "molebear",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 410,
     "MinAge": 16,
@@ -77675,7 +77675,7 @@
   },
   "HL_GR_Squirralope": {
     "DisplayName": "squirralope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 187,
     "MinAge": 16,
@@ -77817,7 +77817,7 @@
   },
   "HL_GR_Rabbitchicken": {
     "DisplayName": "rabbitchicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 22,
     "MinAge": 16,
@@ -77959,7 +77959,7 @@
   },
   "HL_GR_Ratffalo": {
     "DisplayName": "ratffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 157,
     "MinAge": 16,
@@ -78101,7 +78101,7 @@
   },
   "HL_GR_Beaverwolf": {
     "DisplayName": "beaverwolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 410,
     "MinAge": 16,
@@ -78243,7 +78243,7 @@
   },
   "HL_GR_Rabbitcat": {
     "DisplayName": "rabbitcat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 860,
     "MinAge": 16,
@@ -78385,7 +78385,7 @@
   },
   "HL_GR_Moleman": {
     "DisplayName": "moleman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -78527,7 +78527,7 @@
   },
   "HL_GR_Bearalope": {
     "DisplayName": "bearalope",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 825,
     "MinAge": 16,
@@ -78669,7 +78669,7 @@
   },
   "HL_GR_Bearchicken": {
     "DisplayName": "bearchicken",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 150,
     "MinAge": 16,
@@ -78811,7 +78811,7 @@
   },
   "HL_GR_Bearffalo": {
     "DisplayName": "bearffalo",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 750,
     "MinAge": 16,
@@ -78953,7 +78953,7 @@
   },
   "HL_GR_Bearwolf": {
     "DisplayName": "bearwolf",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 555,
     "MinAge": 16,
@@ -79095,7 +79095,7 @@
   },
   "HL_GR_Bearmole": {
     "DisplayName": "bearmole",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 405,
     "MinAge": 16,
@@ -79237,7 +79237,7 @@
   },
   "HL_GR_Bearcat": {
     "DisplayName": "bearcat",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 600,
     "MinAge": 16,
@@ -79379,7 +79379,7 @@
   },
   "HL_GR_Bearman": {
     "DisplayName": "bearman",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 975,
     "MinAge": 16,
@@ -79521,7 +79521,7 @@
   },
   "HL_Bendan_RKPsycast_NunRatBoss_1_AnimalPawn_Thing": {
     "DisplayName": "Martyr",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15,
     "MinAge": 16,
@@ -79663,7 +79663,7 @@
   },
   "HL_Bendan_RKPsycast_Mawile1_AnimalPawn_Thing": {
     "DisplayName": "Mawile",
-    "Enabled": true,
+    "Enabled": false,
     "ModActive": true,
     "BasePrice": 15,
     "MinAge": 16,

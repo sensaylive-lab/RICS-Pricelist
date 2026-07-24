@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-23T07:43:28.8684349Z",
-  "totalActiveMods": 267,
+  "exportedAt": "2026-07-24T21:42:12.2340785Z",
+  "totalActiveMods": 269,
   "mods": [
     {
       "author": "Bendan",
@@ -555,6 +555,12 @@
       "version": null
     },
     {
+      "author": "Netrve",
+      "name": "Hunters Use Melee! (Continued)",
+      "steamId": "2900108163",
+      "version": "1.6.0"
+    },
+    {
       "author": "Feng Xinzi",
       "name": "Hyacinth's Ratkin Facial Animation",
       "steamId": "2852881266",
@@ -799,6 +805,12 @@
       "name": "MiliraKiiroCuddle",
       "steamId": "3655037598",
       "version": "2.7"
+    },
+    {
+      "author": "ViralReaction",
+      "name": "Missile Girl - Performance Mod",
+      "steamId": null,
+      "version": null
     },
     {
       "author": "DarthCY",
@@ -1332,7 +1344,7 @@
       "author": "DarkShadow44",
       "name": "SurgeryImproved",
       "steamId": "3233032071",
-      "version": "1.3"
+      "version": "1.4"
     },
     {
       "author": "Neronix17",

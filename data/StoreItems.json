@@ -7557,7 +7557,7 @@
       "Mod": "Ideology",
       "BasePrice": 500,
       "Category": "Inert relics",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "GauranlenSeed": {
@@ -9042,7 +9042,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "StoneCubeSculpture": {
@@ -9057,7 +9057,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "SandCubeSculpture": {
@@ -9072,7 +9072,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ScrapCubeSculpture": {
@@ -9087,7 +9087,7 @@
       "Mod": "Anomaly",
       "BasePrice": 18,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "ElectricInhibitor": {
@@ -9432,7 +9432,7 @@
       "Mod": "Anomaly",
       "BasePrice": 1200,
       "Category": "Misc",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "MonolithFragment": {
@@ -76482,7 +76482,7 @@
       "Mod": "RimSimManagementFramework边缘模拟经营框架",
       "BasePrice": 1,
       "Category": "Art",
-      "Enabled": true,
+      "Enabled": false,
       "modactive": true
     },
     "RSMF_Collections_GoldenToilet": {

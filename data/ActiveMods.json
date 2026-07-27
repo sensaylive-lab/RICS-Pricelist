@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-07-24T21:42:12.2340785Z",
-  "totalActiveMods": 269,
+  "exportedAt": "2026-07-27T21:17:53.4749902Z",
+  "totalActiveMods": 270,
   "mods": [
     {
       "author": "Bendan",
@@ -648,7 +648,7 @@
       "author": "ilyvion",
       "name": "Loading Progress",
       "steamId": "3535481557",
-      "version": "0.11.0"
+      "version": "0.13.1"
     },
     {
       "author": "lemore",
@@ -1578,6 +1578,12 @@
       "author": "MelonDove,  Ancot",
       "name": "Wolfein Race",
       "steamId": "3473140562",
+      "version": null
+    },
+    {
+      "author": "MelonDove,  Talos",
+      "name": "Wolfein Race Facial Animation",
+      "steamId": "3473147120",
       "version": null
     },
     {

@@ -92999,6 +92999,21 @@
       "Category": "Misc",
       "Enabled": true,
       "modactive": true
+    },
+    "PLAMilira_Star_Argo": {
+      "DefName": "PLAMilira_Star_Argo",
+      "CustomName": "Sacred Core - Argo",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 10,
+      "LimitMode": "OneStack",
+      "IsUsable": true,
+      "IsEquippable": false,
+      "IsWearable": false,
+      "Mod": "Milira:Wings of Democracy",
+      "BasePrice": 1200,
+      "Category": "Mechtech",
+      "Enabled": true,
+      "modactive": true
     }
   }
 }

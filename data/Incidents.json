@@ -5006,7 +5006,7 @@
     "IsDiseaseIncident": false,
     "IsQuestIncident": false,
     "BaseChance": 0.0,
-    "EarliestDay": 180,
+    "EarliestDay": 1800,
     "PointsScaleable": false,
     "MinThreatPoints": -3.40282347E+38,
     "MaxThreatPoints": 3.40282347E+38

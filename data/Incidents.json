@@ -1352,7 +1352,7 @@
     "BaseCost": 605,
     "KarmaType": "Bad",
     "EventCap": 2,
-    "Enabled": true,
+    "Enabled": false,
     "DisabledReason": "",
     "ShouldBeInStore": true,
     "IsAvailableForCommands": true,

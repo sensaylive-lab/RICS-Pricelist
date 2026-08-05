@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-08-05T20:45:57.2969683Z",
-  "totalActiveMods": 430,
+  "exportedAt": "2026-08-05T22:02:32.9019013Z",
+  "totalActiveMods": 445,
   "mods": [
     {
       "author": "Gunseeker",
@@ -1401,6 +1401,12 @@
       "version": null
     },
     {
+      "author": "Gwibbo",
+      "name": "More Psycaster Genes",
+      "steamId": "3171682882",
+      "version": null
+    },
+    {
       "author": "Holgast",
       "name": "More Quests in Space",
       "steamId": "3551388162",
@@ -2319,6 +2325,18 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
+      "name": "Vanilla Brewing Expanded",
+      "steamId": "2186560858",
+      "version": null
+    },
+    {
+      "author": "Sarg Bjornson,  Chowder,  Trahspanda",
+      "name": "Vanilla Brewing Expanded - Coffees and Teas",
+      "steamId": "2275449762",
+      "version": null
+    },
+    {
       "author": "Oskar Potocki,  Kikohi",
       "name": "Vanilla Chemfuel Expanded",
       "steamId": "2792917473",
@@ -2343,6 +2361,30 @@
       "version": null
     },
     {
+      "author": "Sarg Bjornson,  Oskar Potocki",
+      "name": "Vanilla Cooking Expanded - Haute",
+      "steamId": "3455694362",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
+      "name": "Vanilla Cooking Expanded - Stews",
+      "steamId": "2134312965",
+      "version": null
+    },
+    {
+      "author": "Sarg Bjornson,  Oskar Potocki",
+      "name": "Vanilla Cooking Expanded - Sushi",
+      "steamId": "2158539170",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Kikohi,  Helixien,  Sarg",
+      "name": "Vanilla Events Expanded",
+      "steamId": "1938420742",
+      "version": null
+    },
+    {
       "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson,  Erdelf",
       "name": "Vanilla Expanded Framework",
       "steamId": "2023507013",
@@ -2364,6 +2406,12 @@
       "author": "Oskar Potocki,  xrushha,  Taranchuk,  Sarg Bjornson",
       "name": "Vanilla Factions Expanded - Tribals",
       "steamId": "3079786283",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Fishing Expanded",
+      "steamId": "1914064942",
       "version": null
     },
     {
@@ -2403,6 +2451,30 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
+      "name": "Vanilla Plants Expanded",
+      "steamId": "2134308522",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson",
+      "name": "Vanilla Plants Expanded - Flowers",
+      "steamId": "3748351639",
+      "version": null
+    },
+    {
+      "author": "Sarg Bjornson,  Oskar Potocki",
+      "name": "Vanilla Plants Expanded - More Plants",
+      "steamId": "2748889667",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Alestria",
+      "name": "Vanilla Plants Expanded - Succulents",
+      "steamId": "2198652536",
+      "version": null
+    },
+    {
       "author": "DANZEN",
       "name": "Vanilla Psycast Expanded - Biotech Integration",
       "steamId": "3110971925",
@@ -2439,6 +2511,12 @@
       "version": null
     },
     {
+      "author": "Oskar Potocki,  xrushha,  Smash Phil,  Taranchuk,  Reann Shepard",
+      "name": "Vanilla Vehicles Expanded - Tier 3",
+      "steamId": "3047892432",
+      "version": null
+    },
+    {
       "author": "Oskar Potocki,  Smash Phil",
       "name": "Vanilla Vehicles Expanded - Upgrades",
       "steamId": "3302208420",
@@ -2449,6 +2527,18 @@
       "name": "Vehicle Framework",
       "steamId": "3014915404",
       "version": "1.6.2144"
+    },
+    {
+      "author": "Eclair155",
+      "name": "VPE - Biotech Integration for Alpha Animals and More!",
+      "steamId": "3136993011",
+      "version": null
+    },
+    {
+      "author": "PoritzBleibfeucht",
+      "name": "VPE Biotech Integration Addendum",
+      "steamId": "3210073495",
+      "version": null
     },
     {
       "author": "Stagz",

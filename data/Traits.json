@@ -1818,7 +1818,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Fishing Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPE_Thrall_0": {

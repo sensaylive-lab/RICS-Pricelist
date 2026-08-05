@@ -200,7 +200,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_Swelter": {
@@ -212,7 +212,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_Inferno": {
@@ -224,7 +224,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_PsychicRain": {
@@ -236,7 +236,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VEE_LongNight": {
@@ -248,7 +248,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPE_Hurricane": {

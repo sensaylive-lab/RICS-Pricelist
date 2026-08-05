@@ -104,7 +104,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Anomaly",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Windy": {
@@ -200,7 +200,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VEE_Swelter": {
@@ -212,7 +212,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VEE_Inferno": {
@@ -224,7 +224,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VEE_PsychicRain": {
@@ -236,7 +236,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VEE_LongNight": {
@@ -248,7 +248,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Events Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPE_Hurricane": {
@@ -320,7 +320,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ISEKAI CREATURES ADD-ON - Isekai RPG Leveling",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "OAGene_SnowExtreme": {
@@ -344,7 +344,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "[OA]Ratkin Scenario: Snowstorm Orphan",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "OAGene_IceRain": {
@@ -356,7 +356,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "[OA]Ratkin Scenario: Snowstorm Orphan",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "OAGene_StarryNight": {
@@ -368,6 +368,54 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "[OA]Ratkin Scenario: Snowstorm Orphan",
+    "modactive": false,
+    "Version": 1
+  },
+  "Sinnamon_Windy": {
+    "DefName": "Sinnamon_Windy",
+    "Label": "whirlwind",
+    "Description": "Wind is increasing the wind turbine output.\n\n<i><color=#66E0E4FF>More Ritual Rewards</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "More Ritual Rewards",
+    "modactive": true,
+    "Version": 1
+  },
+  "VGE_DustCloud": {
+    "DefName": "VGE_DustCloud",
+    "Label": "dust cloud",
+    "Description": "A dense cosmic dust cloud has drifted across your sector, shrouding your gravship in particulate haze. Visibility is almost zero, and targeting systems are struggling to lock onto anything. The dust will eventually clear as the cloud drifts away.\n\n<i><color=#66E0E4FF>Vanilla Gravship Expanded - Chapter 1</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Gravship Expanded - Chapter 1",
+    "modactive": true,
+    "Version": 1
+  },
+  "VGE_ToxicDustCloud": {
+    "DefName": "VGE_ToxicDustCloud",
+    "Label": "toxic dust cloud",
+    "Description": "A drifting cloud of highly toxic cosmic dust has enveloped your gravship. Microscopic particulates are seeping into every exposed space, corroding surfaces and poisoning the crew.\n\n<i><color=#66E0E4FF>Vanilla Gravship Expanded - Chapter 1</color></i>",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Gravship Expanded - Chapter 1",
+    "modactive": true,
+    "Version": 1
+  },
+  "Kurin_Weather_KumihoDomain": {
+    "DefName": "Kurin_Weather_KumihoDomain",
+    "Label": "Lady Gumi's domain",
+    "Description": "A domain of Lady Gumi.\n\n<i><color=#66E0E4FF>Kurin, The Three Tailed Fox (Deluxe Edition)</color></i>",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Kurin, The Three Tailed Fox [Deluxe Edition]",
     "modactive": true,
     "Version": 1
   }

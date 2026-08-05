@@ -120,13 +120,14 @@
     "Description": "{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric.",
     "Stats": [
       "+75.0% Global learning factor",
-      "+0.05 Mental break threshold"
+      "+0.12 Mental break threshold",
+      "+75.0% Learning rate factor"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 438,
-    "RemovePrice": 731,
+    "AddPrice": 561,
+    "RemovePrice": 936,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -141,13 +142,15 @@
     "Degree": 0,
     "Description": "{PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon.",
     "Stats": [
-      "+4 Melee hit chance"
+      "+4 Melee hit chance",
+      "+0.25 Melee critical chance",
+      "+0.25 Melee parry chance"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 1650,
-    "RemovePrice": 2750,
+    "AddPrice": 1725,
+    "RemovePrice": 2875,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -371,13 +374,13 @@
     "Degree": 0,
     "Description": "{PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}.",
     "Stats": [
-      "-0.4 Pain shock threshold"
+      "-0.5 Pain shock threshold"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 72,
-    "RemovePrice": 600,
+    "AddPrice": 78,
+    "RemovePrice": 656,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -392,13 +395,13 @@
     "Degree": 0,
     "Description": "{PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace.",
     "Stats": [
-      "+15 Melee dodge chance"
+      "+0.5 Melee dodge chance"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 2400,
-    "RemovePrice": 4000,
+    "AddPrice": 225,
+    "RemovePrice": 375,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -413,13 +416,14 @@
     "Degree": 0,
     "Description": "{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others.",
     "Stats": [
-      "+75.0% Global learning factor"
+      "+75.0% Global learning factor",
+      "+75.0% Learning rate factor"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 431,
-    "RemovePrice": 718,
+    "AddPrice": 543,
+    "RemovePrice": 906,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -434,13 +438,14 @@
     "Degree": 0,
     "Description": "{PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others.",
     "Stats": [
-      "-75.0% Global learning factor"
+      "-75.0% Global learning factor",
+      "-75.0% Learning rate factor"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 129,
-    "RemovePrice": 1078,
+    "AddPrice": 163,
+    "RemovePrice": 1359,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -843,13 +848,13 @@
     "Degree": 2,
     "Description": "[PAWN_name]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before.",
     "Stats": [
-      "-0.1 Mental break threshold"
+      "-0.18 Mental break threshold"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 76,
-    "RemovePrice": 637,
+    "AddPrice": 80,
+    "RemovePrice": 667,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -864,13 +869,13 @@
     "Degree": 1,
     "Description": "[PAWN_name] is mentally tough and won't break down under stresses that would crack most people.",
     "Stats": [
-      "-0.04 Mental break threshold"
+      "-0.09 Mental break threshold"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 60,
-    "RemovePrice": 502,
+    "AddPrice": 62,
+    "RemovePrice": 521,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -885,13 +890,13 @@
     "Degree": -1,
     "Description": "[PAWN_name] tends to crack under pressure.",
     "Stats": [
-      "+0.03 Mental break threshold"
+      "+0.08 Mental break threshold"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 199,
-    "RemovePrice": 332,
+    "AddPrice": 207,
+    "RemovePrice": 345,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -906,13 +911,13 @@
     "Degree": -2,
     "Description": "[PAWN_name] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation.",
     "Stats": [
-      "+0.08 Mental break threshold"
+      "+0.15 Mental break threshold"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 252,
-    "RemovePrice": 420,
+    "AddPrice": 262,
+    "RemovePrice": 437,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -928,13 +933,13 @@
     "Description": "[PAWN_name] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective].",
     "Stats": [
       "+0.2 Global work speed",
-      "+0.03 Mental break threshold"
+      "+0.08 Mental break threshold"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 274,
-    "RemovePrice": 457,
+    "AddPrice": 282,
+    "RemovePrice": 470,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -950,13 +955,13 @@
     "Description": "[PAWN_name] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective].",
     "Stats": [
       "+0.4 Global work speed",
-      "+0.08 Mental break threshold"
+      "+0.14 Mental break threshold"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 401,
-    "RemovePrice": 669,
+    "AddPrice": 411,
+    "RemovePrice": 685,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -971,13 +976,13 @@
     "Degree": 2,
     "Description": "[PAWN_name] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
     "Stats": [
-      "+0.2 Global work speed"
+      "+0.35 Global work speed"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 314,
-    "RemovePrice": 524,
+    "AddPrice": 371,
+    "RemovePrice": 618,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -992,13 +997,13 @@
     "Degree": 1,
     "Description": "[PAWN_name] is a natural hard worker and will finish tasks faster than most.",
     "Stats": [
-      "+0.1 Global work speed"
+      "+0.2 Global work speed"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 232,
-    "RemovePrice": 387,
+    "AddPrice": 269,
+    "RemovePrice": 449,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -1013,13 +1018,13 @@
     "Degree": -1,
     "Description": "[PAWN_name] is a little bit lazy.",
     "Stats": [
-      "-0.1 Global work speed"
+      "-0.2 Global work speed"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 69,
-    "RemovePrice": 581,
+    "AddPrice": 81,
+    "RemovePrice": 674,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -1034,13 +1039,13 @@
     "Degree": -2,
     "Description": "[PAWN_name] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task.",
     "Stats": [
-      "-0.2 Global work speed"
+      "-0.35 Global work speed"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 94,
-    "RemovePrice": 787,
+    "AddPrice": 111,
+    "RemovePrice": 928,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -1051,7 +1056,7 @@
   },
   "PsychicSensitivity_2": {
     "DefName": "PsychicSensitivity",
-    "Name": "Psychically hypersensitive",
+    "Name": "Psychically Hypersensitive",
     "Degree": 2,
     "Description": "[PAWN_name]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena.",
     "Stats": [
@@ -1072,7 +1077,7 @@
   },
   "PsychicSensitivity_1": {
     "DefName": "PsychicSensitivity",
-    "Name": "Psychically sensitive",
+    "Name": "Psychically Sensitive",
     "Degree": 1,
     "Description": "[PAWN_name]'s mind is unusually sensitive to psychic phenomena.",
     "Stats": [
@@ -1093,7 +1098,7 @@
   },
   "PsychicSensitivity_-1": {
     "DefName": "PsychicSensitivity",
-    "Name": "Psychically dull",
+    "Name": "Psychically Dull",
     "Degree": -1,
     "Description": "[PAWN_name]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena.",
     "Stats": [
@@ -1114,7 +1119,7 @@
   },
   "PsychicSensitivity_-2": {
     "DefName": "PsychicSensitivity",
-    "Name": "Psychically deaf",
+    "Name": "Psychically Deaf",
     "Degree": -2,
     "Description": "[PAWN_name]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena.",
     "Stats": [
@@ -1139,14 +1144,13 @@
     "Degree": 1,
     "Description": "[PAWN_name] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy.",
     "Stats": [
-      "+15.0% Aiming time",
-      "+3 Shooting accuracy"
+      "+25.0% Aiming time"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 1376,
-    "RemovePrice": 2293,
+    "AddPrice": 288,
+    "RemovePrice": 481,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -1161,14 +1165,13 @@
     "Degree": -1,
     "Description": "Pew! Pew! Pew! [PAWN_name] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately.",
     "Stats": [
-      "-40.0% Aiming time",
-      "-3 Shooting accuracy"
+      "-25.0% Aiming time"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 441,
-    "RemovePrice": 3675,
+    "AddPrice": 86,
+    "RemovePrice": 721,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -1242,7 +1245,7 @@
   },
   "Beauty_-2": {
     "DefName": "Beauty",
-    "Name": "Staggeringly ugly",
+    "Name": "Staggeringly Ugly",
     "Degree": -2,
     "Description": "[PAWN_name] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing.",
     "Stats": [
@@ -1355,7 +1358,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Occultist_0": {
@@ -1377,7 +1380,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Joyous_0": {
@@ -1396,7 +1399,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "BodyMastery_0": {
@@ -1415,7 +1418,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Disturbing_0": {
@@ -1434,7 +1437,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VoidFascination_0": {
@@ -1453,7 +1456,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Anomaly",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "BS_Giant_0": {
@@ -1472,7 +1475,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Big and Small - Framework",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "AC_FreeMind_0": {
@@ -1607,7 +1610,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_NeutralSensitivity_1": {
@@ -1628,7 +1631,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_NeutralSensitivity_0": {
@@ -1649,7 +1652,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_NeutralSensitivity_-1": {
@@ -1670,7 +1673,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_LightAffinity_1": {
@@ -1691,7 +1694,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_LightAffinity_0": {
@@ -1712,7 +1715,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_LightAffinity_-1": {
@@ -1733,7 +1736,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_DarkAffinity_1": {
@@ -1754,7 +1757,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_DarkAffinity_0": {
@@ -1775,7 +1778,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_DarkAffinity_-1": {
@@ -1796,7 +1799,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force Standalone",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VCEF_Fisherman_0": {
@@ -1815,7 +1818,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Fishing Expanded",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VPE_Thrall_0": {
@@ -1856,7 +1859,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "CVN Mechanoid Combined Arms Warfare",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "cvnpsyop_0": {
@@ -1877,7 +1880,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "CVN Mechanoid Combined Arms Warfare",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "darkwarriorop_0": {
@@ -1900,7 +1903,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "CVN Mechanoid Combined Arms Warfare",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "furfuck_0": {
@@ -1922,7 +1925,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "CVN Mechanoid Combined Arms Warfare",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Protagonist_0": {
@@ -1941,7 +1944,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Antagonist_0": {
@@ -1962,7 +1965,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Reincarnated_0": {
@@ -1981,7 +1984,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Regressor_0": {
@@ -2000,7 +2003,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SummonedHero_0": {
@@ -2022,7 +2025,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_NaturalTalent_0": {
@@ -2041,7 +2044,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Prodigy_0": {
@@ -2060,7 +2063,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_LateBloomer_0": {
@@ -2079,7 +2082,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_QuickLearner_0": {
@@ -2098,7 +2101,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SlowGrind_0": {
@@ -2117,7 +2120,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_PowerSpike_0": {
@@ -2136,7 +2139,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_AwakenedPotential_0": {
@@ -2155,7 +2158,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Genius_0": {
@@ -2174,7 +2177,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BattleManiac_0": {
@@ -2195,7 +2198,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BerserkerBlood_0": {
@@ -2216,7 +2219,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_IronWill_0": {
@@ -2239,7 +2242,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_GlassCannon_0": {
@@ -2258,7 +2261,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Fortress_0": {
@@ -2281,7 +2284,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_ShadowStep_0": {
@@ -2302,7 +2305,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_PredatorInstinct_0": {
@@ -2325,7 +2328,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Undying_0": {
@@ -2346,7 +2349,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Mighty_0": {
@@ -2365,7 +2368,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Agile_0": {
@@ -2384,7 +2387,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Resilient_0": {
@@ -2403,7 +2406,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Brilliant_0": {
@@ -2422,7 +2425,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Enlightened_0": {
@@ -2441,7 +2444,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SilverTongue_0": {
@@ -2460,7 +2463,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_MerchantEye_0": {
@@ -2482,7 +2485,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_CraftsmanSoul_0": {
@@ -2501,7 +2504,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_BeastWhisperer_0": {
@@ -2524,7 +2527,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_HealerTouch_0": {
@@ -2546,7 +2549,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Lucky_0": {
@@ -2569,7 +2572,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_CursedLuck_0": {
@@ -2591,7 +2594,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_HollowCore_0": {
@@ -2610,7 +2613,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_FragileVessel_0": {
@@ -2629,7 +2632,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_EchoOfDefeat_0": {
@@ -2648,7 +2651,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_SealedPower_0": {
@@ -2667,7 +2670,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_F_0": {
@@ -2691,7 +2694,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_E_0": {
@@ -2714,7 +2717,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_D_0": {
@@ -2735,7 +2738,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_C_0": {
@@ -2758,7 +2761,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_B_0": {
@@ -2782,7 +2785,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_A_0": {
@@ -2807,7 +2810,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_S_0": {
@@ -2832,7 +2835,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_SS_0": {
@@ -2857,7 +2860,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Isekai_Rank_SSS_0": {
@@ -2882,7 +2885,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "ISEKAI RPG LEVELING",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "AG_Beauty_2": {
@@ -2903,7 +2906,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Alpha Genes",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "AG_Beauty_-2": {
@@ -2924,7 +2927,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Alpha Genes",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "HAR_Xenophobia_1": {
@@ -2981,7 +2984,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Vanilla Ideology Expanded - Memes and Structures",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "LazyCat_0": {
@@ -3070,7 +3073,7 @@
     "Degree": 0,
     "Description": "{PAWN_nameDef} has exceptional eyesight.",
     "Stats": [
-      "+8 Shooting accuracy"
+      "+8 Weapon handling"
     ],
     "Conflicts": [],
     "CanAdd": true,
@@ -3253,7 +3256,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "[Bendan]RatkinPsycast",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Bendan_RKPsycast_BionicTail_4_Trait_0": {
@@ -3538,7 +3541,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "[Bendan]RatkinPsycast",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Bendan_RKPsycast_BionicTail_21_Trait_0": {
@@ -3858,7 +3861,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force - Lightsaber",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_FormII_Makashi_0": {
@@ -3881,7 +3884,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force - Lightsaber",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_FormIII_Soresu_0": {
@@ -3904,7 +3907,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force - Lightsaber",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_FormIV_Ataru_0": {
@@ -3926,7 +3929,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force - Lightsaber",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_FormV_ShienDjemSo_0": {
@@ -3950,7 +3953,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force - Lightsaber",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_FormVI_Niman_0": {
@@ -3973,7 +3976,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force - Lightsaber",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Force_FormVII_JuyoVaapad_0": {
@@ -3997,7 +4000,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Star Wars : The Force - Lightsaber",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Bendan_RKPsycast_BionicTail_14_Trait_0": {
@@ -4206,7 +4209,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Dellin's Milira Attire Expaned",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "Kiiro_ShoppingTendency_-1": {
@@ -4269,7 +4272,7 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Milira:Wings of Democracy",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RKTrait_YunDanFengQing_0": {
@@ -4691,15 +4694,14 @@
     "Description": "This Milila is a mysterious observer who transcends time and space.",
     "Stats": [
       "+0.5 Research speed",
-      "+1 Entity study rate",
       "+1 Hacking speed",
       "-10.0% Ranged cooldown multiplier"
     ],
     "Conflicts": [],
     "CanAdd": true,
     "CanRemove": true,
-    "AddPrice": 539,
-    "RemovePrice": 899,
+    "AddPrice": 389,
+    "RemovePrice": 649,
     "BypassLimit": false,
     "CustomName": false,
     "KarmaTypeForAdding": null,
@@ -4870,7 +4872,7 @@
     "Stats": [
       "+15 Melee hit chance",
       "+15 Melee dodge chance",
-      "+10 Shooting accuracy",
+      "+10 Weapon handling",
       "-15.0% Aiming time",
       "+1.2 Move speed",
       "+0.1 Social impact",
@@ -4966,6 +4968,1616 @@
     "KarmaTypeForAdding": null,
     "KarmaTypeForRemoving": null,
     "ModSource": "Milira Faction: Milira Imperium",
+    "modactive": true,
+    "Version": 1
+  },
+  "AM_Ahimsa_0": {
+    "DefName": "AM_Ahimsa",
+    "Name": "Vow of nonviolence",
+    "Degree": 0,
+    "Description": "A strict principle of nonviolence which applies to all living things.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Alpha Memes",
+    "modactive": true,
+    "Version": 1
+  },
+  "Bravery_-1": {
+    "DefName": "Bravery",
+    "Name": "Cowardly",
+    "Degree": -1,
+    "Description": "[PAWN_name] always shies away from danger. [PAWN_pronoun] is usually the first to flee from battle.",
+    "Stats": [
+      "+0.25 Suppressability"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 232,
+    "RemovePrice": 387,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Combat Extended",
+    "modactive": true,
+    "Version": 1
+  },
+  "Bravery_1": {
+    "DefName": "Bravery",
+    "Name": "Brave",
+    "Degree": 1,
+    "Description": "Few things scare [PAWN_name]. In battle [PAWN_pronoun] stands unfazed where others panic and flee.",
+    "Stats": [
+      "-0.5 Suppressability"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 81,
+    "RemovePrice": 674,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Combat Extended",
+    "modactive": true,
+    "Version": 1
+  },
+  "Bravery_2": {
+    "DefName": "Bravery",
+    "Name": "Fearless",
+    "Degree": 2,
+    "Description": "[PAWN_name] laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, [PAWN_name] seems to lack any sense of self-preservation and will never flee from a threatening situation.",
+    "Stats": [
+      "-1 Suppressability"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 117,
+    "RemovePrice": 974,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Combat Extended",
+    "modactive": true,
+    "Version": 1
+  },
+  "Polyglot_0": {
+    "DefName": "Polyglot",
+    "Name": "Polyglot",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} easily perceives foreign languages.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Cybranian - Rim Languages",
+    "modactive": true,
+    "Version": 1
+  },
+  "MPT_BladeWhisperer_0": {
+    "DefName": "MPT_BladeWhisperer",
+    "Name": "Blade whisperer",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} knows the spirit of all arms. If {PAWN_pronoun} is not bonded to a weapon already, upon equipping a non-biocodable melee weapon, it will generate a single persona weapon trait and will bond to them. Should {PAWN_nameDef} ever unequip the weapon, it will lose these traits.",
+    "Stats": [
+      "+2.5 Melee hit chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 1087,
+    "RemovePrice": 1812,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "More Persona Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Nearsighted_0": {
+    "DefName": "RT_Nearsighted",
+    "Name": "Nearsighted",
+    "Degree": 0,
+    "Description": "[PAWN_name] finds it difficult to focus on distant targets, and prefer to get up close and personal.",
+    "Stats": [
+      "-0.4 Weapon handling",
+      "+15.0% Aiming time",
+      "+1 Melee hit chance",
+      "+0.1 Melee dodge chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 746,
+    "RemovePrice": 1243,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Farsighted_0": {
+    "DefName": "RT_Farsighted",
+    "Name": "Farsighted",
+    "Degree": 0,
+    "Description": "[PAWN_name] could spot a target from nearly a hundred meters, yet still somehow walk into walls.",
+    "Stats": [
+      "+0.5 Weapon handling",
+      "-15.0% Aiming time",
+      "-1 Melee hit chance",
+      "-0.1 Melee dodge chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 235,
+    "RemovePrice": 1959,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Athletic_0": {
+    "DefName": "RT_Athletic",
+    "Name": "Athletic",
+    "Degree": 0,
+    "Description": "[PAWN_name]'s movements are smooth and graceful.",
+    "Stats": [
+      "+0.1 Melee dodge chance",
+      "+0.1 Move speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 202,
+    "RemovePrice": 337,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Stiff_0": {
+    "DefName": "RT_Stiff",
+    "Name": "Stiff",
+    "Degree": 0,
+    "Description": "[PAWN_name] is so rigid, it's almost like [PAWN_pronoun] is souless.",
+    "Stats": [
+      "-0.1 Melee dodge chance",
+      "-0.1 Move speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 60,
+    "RemovePrice": 506,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_GoodHygiene_0": {
+    "DefName": "RT_GoodHygiene",
+    "Name": "Good hygiene",
+    "Degree": 0,
+    "Description": "[PAWN_name] takes care of [PAWN_possessive] personal hygiene.",
+    "Stats": [
+      "-0.1 Food poison chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 49,
+    "RemovePrice": 412,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_PoorHygiene_0": {
+    "DefName": "RT_PoorHygiene",
+    "Name": "Poor hygiene",
+    "Degree": 0,
+    "Description": "[PAWN_name] doesn't care about [PAWN_possessive] hygiene, and sometimes get sick from bad food.",
+    "Stats": [
+      "+0.1 Food poison chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 165,
+    "RemovePrice": 275,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Persuasive_0": {
+    "DefName": "RT_Persuasive",
+    "Name": "Persuasive",
+    "Degree": 0,
+    "Description": "[PAWN_name] often gets [PAWN_possessive] way with things.",
+    "Stats": [
+      "+0.25 Negotiation ability",
+      "+0.25 Arrest success chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 225,
+    "RemovePrice": 375,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Unconvincing_0": {
+    "DefName": "RT_Unconvincing",
+    "Name": "Unconvincing",
+    "Degree": 0,
+    "Description": "[PAWN_name] has never won a debate in [PAWN_possessive] life.",
+    "Stats": [
+      "-0.25 Negotiation ability",
+      "-0.25 Arrest success chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 67,
+    "RemovePrice": 562,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Resilient_0": {
+    "DefName": "RT_Resilient",
+    "Name": "Resilient",
+    "Degree": 0,
+    "Description": "[PAWN_name] has been in plenty of fights since [PAWN_pronoun] was a kid, and had built up a tolerance to injury and pain as a result.",
+    "Stats": [
+      "-10.0% Incoming damage multiplier",
+      "+0.05 Pain shock threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 52,
+    "RemovePrice": 440,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Fragile_0": {
+    "DefName": "RT_Fragile",
+    "Name": "Fragile",
+    "Degree": 0,
+    "Description": "[PAWN_name] lived a pampered life until now, and is unused to the brutal challenges present out in the Rim.",
+    "Stats": [
+      "+10.0% Incoming damage multiplier",
+      "-0.05 Pain shock threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 176,
+    "RemovePrice": 293,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Energetic_0": {
+    "DefName": "RT_Energetic",
+    "Name": "Energetic",
+    "Degree": 0,
+    "Description": "[PAWN_name] always tackle his tasks with great enthusism.",
+    "Stats": [
+      "+0.2 Global work speed",
+      "+0.15 Move speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 281,
+    "RemovePrice": 468,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Sluggish_0": {
+    "DefName": "RT_Sluggish",
+    "Name": "Sluggish",
+    "Degree": 0,
+    "Description": "[PAWN_name] is slow. Sooo... slooow...",
+    "Stats": [
+      "-0.2 Global work speed",
+      "-0.15 Move speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 84,
+    "RemovePrice": 703,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Restful_0": {
+    "DefName": "RT_Restful",
+    "Name": "Restful",
+    "Degree": 0,
+    "Description": "[PAWN_name] always sleep like a baby.",
+    "Stats": [
+      "+0.25 Rest rate multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 206,
+    "RemovePrice": 343,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Restless_0": {
+    "DefName": "RT_Restless",
+    "Name": "Restless",
+    "Degree": 0,
+    "Description": "[PAWN_name] often has a difficult time falling asleep.",
+    "Stats": [
+      "-0.25 Rest rate multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 61,
+    "RemovePrice": 515,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Efficient_0": {
+    "DefName": "RT_Efficient",
+    "Name": "Efficient",
+    "Degree": 0,
+    "Description": "[PAWN_name] is quite productive when it comes to work.",
+    "Stats": [
+      "+0.2 Global work speed",
+      "+20.0% Global learning factor"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 300,
+    "RemovePrice": 500,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Inefficient_0": {
+    "DefName": "RT_Inefficient",
+    "Name": "Inefficient",
+    "Degree": 0,
+    "Description": "[PAWN_name] is somewhat of a bottleneck in the colony.",
+    "Stats": [
+      "-0.2 Global work speed",
+      "-20.0% Global learning factor"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 90,
+    "RemovePrice": 750,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Valiant_0": {
+    "DefName": "RT_Valiant",
+    "Name": "Valiant",
+    "Degree": 0,
+    "Description": "[PAWN_name] is brave, [PAWN_pronoun] would stand [PAWN_possessive] ground where others would scramble and run.",
+    "Stats": [
+      "-0.05 Mental break threshold",
+      "+0.05 Pain shock threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 168,
+    "RemovePrice": 281,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Craven_0": {
+    "DefName": "RT_Craven",
+    "Name": "Craven",
+    "Degree": 0,
+    "Description": "When there's a fight, [PAWN_name] is the first to run.",
+    "Stats": [
+      "+0.05 Mental break threshold",
+      "-0.05 Pain shock threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 50,
+    "RemovePrice": 421,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Rowdy_0": {
+    "DefName": "RT_Rowdy",
+    "Name": "Rowdy",
+    "Degree": 0,
+    "Description": "[PAWN_name] likes a good fight, [PAWN_pronoun] will sometimes start a fight just because [PAWN_pronoun] can.",
+    "Stats": [
+      "+0.05 Mental break threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 157,
+    "RemovePrice": 262,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Composed_0": {
+    "DefName": "RT_Composed",
+    "Name": "Composed",
+    "Degree": 0,
+    "Description": "[PAWN_name] is usually calm and collected.",
+    "Stats": [
+      "-0.05 Mental break threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 47,
+    "RemovePrice": 393,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_HeatTolerant_0": {
+    "DefName": "RT_HeatTolerant",
+    "Name": "Heat tolerant",
+    "Degree": 0,
+    "Description": "[PAWN_name] is more comfortable being in hot environment than his peers.",
+    "Stats": [
+      "+3 Max comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 375,
+    "RemovePrice": 625,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_HeatIntolerant_0": {
+    "DefName": "RT_HeatIntolerant",
+    "Name": "Heat intolerant",
+    "Degree": 0,
+    "Description": "[PAWN_name] does not like being in the heat.",
+    "Stats": [
+      "-3 Max comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 112,
+    "RemovePrice": 937,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_ColdTolerant_0": {
+    "DefName": "RT_ColdTolerant",
+    "Name": "Cold tolerant",
+    "Degree": 0,
+    "Description": "[PAWN_name] is more comfortable being in cold environment than his peers.",
+    "Stats": [
+      "-3 Min comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 112,
+    "RemovePrice": 937,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_ColdIntolerant_0": {
+    "DefName": "RT_ColdIntolerant",
+    "Name": "Cold intolerant",
+    "Degree": 0,
+    "Description": "[PAWN_name] does not like being in the cold.",
+    "Stats": [
+      "+3 Min comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 375,
+    "RemovePrice": 625,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Muscular_0": {
+    "DefName": "RT_Muscular",
+    "Name": "Muscular",
+    "Degree": 0,
+    "Description": "[PAWN_name] has a well built body, people around [PAWN_pronoun] find that rather attractive.",
+    "Stats": [
+      "+5 Carry weight",
+      "+5 Bulk capacity",
+      "+1 Beauty"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 1725,
+    "RemovePrice": 2875,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Frail_0": {
+    "DefName": "RT_Frail",
+    "Name": "Frail",
+    "Degree": 0,
+    "Description": "[PAWN_name] looks a bit fragile, but not in a lovable way.",
+    "Stats": [
+      "-3 Carry weight",
+      "-3 Bulk capacity",
+      "-1 Beauty"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 337,
+    "RemovePrice": 2812,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Abstinent_0": {
+    "DefName": "RT_Abstinent",
+    "Name": "Abstinent",
+    "Degree": 0,
+    "Description": "[PAWN_name] doesn't eat or drink much.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Ravenous_0": {
+    "DefName": "RT_Ravenous",
+    "Name": "Ravenous",
+    "Degree": 0,
+    "Description": "[PAWN_name] has a bottomless pit for a stomach.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Gifted_0": {
+    "DefName": "RT_Gifted",
+    "Name": "Gifted",
+    "Degree": 0,
+    "Description": "[PAWN_name] is naturally talented, [PAWN_pronoun] gets a headstart before everyone else.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Incompetent_0": {
+    "DefName": "RT_Incompetent",
+    "Name": "Incompetent",
+    "Degree": 0,
+    "Description": "[PAWN_name] is someone everyone loves to hate.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_PatientCook_0": {
+    "DefName": "RT_PatientCook",
+    "Name": "Patient cook",
+    "Degree": 0,
+    "Description": "[PAWN_name] takes great care in the preparation of food, [PAWN_pronoun] never skip a step just to have an early meal.",
+    "Stats": [
+      "-0.75 Cooking speed",
+      "-0.1 Food poison chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 83,
+    "RemovePrice": 693,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_ImpatientCook_0": {
+    "DefName": "RT_ImpatientCook",
+    "Name": "Impatient cook",
+    "Degree": 0,
+    "Description": "[PAWN_name] couldn't care less about following the recipes as long as [PAWN_pronoun] can get food into [PAWN_possessive] mouth in record time.",
+    "Stats": [
+      "+0.75 Cooking speed",
+      "+0.1 Food poison chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 277,
+    "RemovePrice": 462,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Healthy_0": {
+    "DefName": "RT_Healthy",
+    "Name": "Healthy",
+    "Degree": 0,
+    "Description": "[PAWN_name] lives a healthy lifestyle, and wakes up feeling energetic and cheerful.",
+    "Stats": [
+      "+0.1 Rest rate multiplier",
+      "+0.1 Immunity gain speed",
+      "+0.05 Toxic resistance",
+      "+0.05 Toxic environment resistance",
+      "+1 Max comfortable temperature",
+      "-1 Min comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 356,
+    "RemovePrice": 593,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_ChronicallyIll_0": {
+    "DefName": "RT_ChronicallyIll",
+    "Name": "Chronically ill",
+    "Degree": 0,
+    "Description": "[PAWN_name] gets ill quite often, and seem to require more effort to get out of bed than the average person.",
+    "Stats": [
+      "-0.1 Rest rate multiplier",
+      "-0.1 Immunity gain speed",
+      "-0.05 Toxic resistance",
+      "-0.05 Toxic environment resistance",
+      "-1 Max comfortable temperature",
+      "+1 Min comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 106,
+    "RemovePrice": 890,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_TemperatureTolerant_0": {
+    "DefName": "RT_TemperatureTolerant",
+    "Name": "Temperature tolerant",
+    "Degree": 0,
+    "Description": "[PAWN_name] is comfortable in all seasons.",
+    "Stats": [
+      "+3 Max comfortable temperature",
+      "-3 Min comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 600,
+    "RemovePrice": 1000,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_TemperatureIntolerant_0": {
+    "DefName": "RT_TemperatureIntolerant",
+    "Name": "Temperature intolerant",
+    "Degree": 0,
+    "Description": "[PAWN_name] thinks that summer is way too hot, and winter is way too cold.",
+    "Stats": [
+      "-3 Max comfortable temperature",
+      "+3 Min comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 600,
+    "RemovePrice": 1000,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Coordinated_0": {
+    "DefName": "RT_Coordinated",
+    "Name": "Coordinated",
+    "Degree": 0,
+    "Description": "[PAWN_name] has good reaction time and finds physical activities less stressful than [PAWN_possessive] peers.",
+    "Stats": [
+      "+0.5 Weapon handling",
+      "+1 Melee hit chance",
+      "+0.1 Melee dodge chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 727,
+    "RemovePrice": 1212,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Clumsy_0": {
+    "DefName": "RT_Clumsy",
+    "Name": "Clumsy",
+    "Degree": 0,
+    "Description": "[PAWN_name] is easily distracted and often mess up when it comes to physical activities.",
+    "Stats": [
+      "-0.4 Weapon handling",
+      "-1 Melee hit chance",
+      "-0.1 Melee dodge chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 206,
+    "RemovePrice": 1724,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Hardy_0": {
+    "DefName": "RT_Hardy",
+    "Name": "Hardy",
+    "Degree": 0,
+    "Description": "[PAWN_name] is what people refer to as a 'stronk boi'.",
+    "Stats": [
+      "-10.0% Incoming damage multiplier",
+      "+0.1 Immunity gain speed",
+      "+0.1 Toxic resistance",
+      "+0.1 Toxic environment resistance",
+      "+1 Max comfortable temperature",
+      "-1 Min comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 367,
+    "RemovePrice": 612,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Feeble_0": {
+    "DefName": "RT_Feeble",
+    "Name": "Feeble",
+    "Degree": 0,
+    "Description": "[PAWN_name] is so fragile, it doesn't take much to take [PAWN_objective] out of action.",
+    "Stats": [
+      "+10.0% Incoming damage multiplier",
+      "-0.1 Immunity gain speed",
+      "-0.1 Toxic resistance",
+      "-0.1 Toxic environment resistance",
+      "-1 Max comfortable temperature",
+      "+1 Min comfortable temperature"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 110,
+    "RemovePrice": 918,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_EasilyAmused_0": {
+    "DefName": "RT_EasilyAmused",
+    "Name": "Easily amused",
+    "Degree": 0,
+    "Description": "Whether by sheer optimism or a force of personality, [PAWN_name] always manages to see the bright side of life.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_ConstantlyBemused_0": {
+    "DefName": "RT_ConstantlyBemused",
+    "Name": "Constantly bemused",
+    "Degree": 0,
+    "Description": "Life to [PAWN_name] is an endless, boring joke that [PAWN_pronoun] just can't get away from.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Inquisitive_0": {
+    "DefName": "RT_Inquisitive",
+    "Name": "Inquisitive",
+    "Degree": 0,
+    "Description": "[PAWN_name] has an interest in understanding the workings of the world, and is able to apply [PAWN_possessive] knowledge in daily life.",
+    "Stats": [
+      "-0.05 Mental break threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 47,
+    "RemovePrice": 393,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Ignorant_0": {
+    "DefName": "RT_Ignorant",
+    "Name": "Ignorant",
+    "Degree": 0,
+    "Description": "Gaps in [PAWN_name]'s education and general lack of curiosity makes life often stressful for [PAWN_objective].",
+    "Stats": [
+      "+0.05 Mental break threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 157,
+    "RemovePrice": 262,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Tidy_0": {
+    "DefName": "RT_Tidy",
+    "Name": "Tidy",
+    "Degree": 0,
+    "Description": "[PAWN_name] likes to keep [PAWN_possessive] surroundings clean, and is used to being in an organised environment.",
+    "Stats": [
+      "+0.05 Rest rate multiplier",
+      "+0.05 Global work speed",
+      "+0.15 Cleaning speed multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 202,
+    "RemovePrice": 337,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "RT_Messy_0": {
+    "DefName": "RT_Messy",
+    "Name": "Messy",
+    "Degree": 0,
+    "Description": "[PAWN_name] often neglect their surroundings, making it difficult for [PAWN_objective] to get work done.",
+    "Stats": [
+      "-0.05 Rest rate multiplier",
+      "-0.05 Global work speed",
+      "-0.15 Cleaning speed multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 60,
+    "RemovePrice": 506,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "RimTraits - General Traits",
+    "modactive": true,
+    "Version": 1
+  },
+  "Straight_0": {
+    "DefName": "Straight",
+    "Name": "Straight",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is romantically attracted to people of the opposite gender.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "[RF] Rational Romance (Continued)",
+    "modactive": true,
+    "Version": 1
+  },
+  "Faithful_0": {
+    "DefName": "Faithful",
+    "Name": "Faithful",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} will never cheat on a partner, no matter how bad the relationship gets.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "[RF] Rational Romance (Continued)",
+    "modactive": true,
+    "Version": 1
+  },
+  "Philanderer_0": {
+    "DefName": "Philanderer",
+    "Name": "Philanderer",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} just cannot be trusted to stay faithful to a partner.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "[RF] Rational Romance (Continued)",
+    "modactive": true,
+    "Version": 1
+  },
+  "Polyamorous_0": {
+    "DefName": "Polyamorous",
+    "Name": "Polyamorous",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} prefers romantic relationships involving multiple partners to monogamous relationships. {PAWN_pronoun} doesn't mind if {PAWN_possessive} partners romance other people, but will be less happy in a restraining, monogamous relationship.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "[RF] Rational Romance (Continued)",
+    "modactive": true,
+    "Version": 1
+  },
+  "Crowju_TraitAutomaticphobia_0": {
+    "DefName": "Crowju_TraitAutomaticphobia",
+    "Name": "Full auto-phobia",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} detests burst fire weapons. {PAWN_pronoun} can use them, but will be happier without it.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Crowju Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "Crowju_TraitMechphobia_0": {
+    "DefName": "Crowju_TraitMechphobia",
+    "Name": "Crowju mentality",
+    "Degree": 0,
+    "Description": "A fire of revenge towards mechanoids burns within {PAWN_nameDef}, but human controlled ones are acceptable. {PAWN_pronoun} feels uneasy when hostile mechaoids are around, and will become happy from destroying one.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Crowju Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "Kurin_Trait_0": {
+    "DefName": "Kurin_Trait",
+    "Name": "Kurinlike",
+    "Degree": 0,
+    "Description": "A Kurin.\n\n¯\\_(ツ)_/¯",
+    "Stats": [
+      "+1 Beauty",
+      "+0.15 Trade price improvement"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 247,
+    "RemovePrice": 412,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+    "modactive": true,
+    "Version": 1
+  },
+  "Kurin_Trait_StrangeKurin_0": {
+    "DefName": "Kurin_Trait_StrangeKurin",
+    "Name": "Strange kurin",
+    "Degree": 0,
+    "Description": "Strange kind of kurins... [PAWN_name] likes plants.",
+    "Stats": [
+      "+0.3 Plant work speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 194,
+    "RemovePrice": 324,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+    "modactive": true,
+    "Version": 1
+  },
+  "Kurin_Trait_FuriousKurin_0": {
+    "DefName": "Kurin_Trait_FuriousKurin",
+    "Name": "Furious kurin",
+    "Degree": 0,
+    "Description": "[PAWN_name] is of a radicalised kind of kurins. Their thirst for revenge and hatred for the offenders of kurinkind is unyielding, unending.",
+    "Stats": [
+      "+50.0% Global certainty loss factor"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 225,
+    "RemovePrice": 375,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+    "modactive": true,
+    "Version": 1
+  },
+  "Kimiri_Trait_0": {
+    "DefName": "Kimiri_Trait",
+    "Name": "Kurinlike (kimiri)",
+    "Degree": 0,
+    "Description": "A Kimiri.\n\n¯\\_(ツ)_/¯",
+    "Stats": [
+      "+1 Beauty"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 225,
+    "RemovePrice": 375,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+    "modactive": true,
+    "Version": 1
+  },
+  "Maru_flameworship_0": {
+    "DefName": "Maru_flameworship",
+    "Name": "Flame Worship",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is the Maru. They feel the warmth, remind themselves that they are alive, and clear their minds.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_Eyetrait_0": {
+    "DefName": "MRT_Eyetrait",
+    "Name": "Sharp eye",
+    "Degree": 0,
+    "Description": "Any object, event, or technology has cause and effect.\n{PAWN_nameDef} is very skilled at identifying and learning such causal relationships.",
+    "Stats": [
+      "+25.0% Global learning factor",
+      "+20.0% Sell price multiplier"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 273,
+    "RemovePrice": 456,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_Bodytrait_0": {
+    "DefName": "MRT_Bodytrait",
+    "Name": "Flexible",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef}'s body is naturally flexible.\nStronger and more flexible than others, it has a significant advantage in hunting.",
+    "Stats": [
+      "+1 Melee dodge chance",
+      "+0.2 Move speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 375,
+    "RemovePrice": 625,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_Mentaltrait_0": {
+    "DefName": "MRT_Mentaltrait",
+    "Name": "Self-righteousness",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} believes that he is right.\nThe firm belief has a positive effect on {PAWN_possessive} will, just like {PAWN_possessive} piety, but he also tends to ignore the opinions of others.",
+    "Stats": [
+      "-0.09 Mental break threshold",
+      "+0.1 Global work speed",
+      "-50.0% Global certainty loss factor"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 82,
+    "RemovePrice": 689,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_Mountaintrait_0": {
+    "DefName": "MRT_Mountaintrait",
+    "Name": "Leadership",
+    "Degree": 0,
+    "Description": "A person with strong leadership always influences those around them, either positively or negatively.\nNo one knows what path such a person will choose or what kind of life he will lead. But one thing is certain, {PAWN_pronoun} won't be an ordinary person who comes and goes into the world without anyone knowing. /n/n{PAWN_nameDef} was born with that gift.",
+    "Stats": [
+      "-1 Mental break threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 90,
+    "RemovePrice": 750,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_Eartrait_0": {
+    "DefName": "MRT_Eartrait",
+    "Name": "Sensitive ears",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} has ears that are sensitive to even small sounds.\n Being sensitive to sounds is always an advantage in life outside of its nest, but it also has the disadvantage of not being able to fall asleep deeply.",
+    "Stats": [
+      "-0.2 Rest rate multiplier",
+      "+0.8 Melee dodge chance",
+      "+2 Melee hit chance"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 1064,
+    "RemovePrice": 1774,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_Prototype_0": {
+    "DefName": "MRT_Prototype",
+    "Name": "Prototype",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is an experimentally cultivated Maru.\nIt has significantly superior physical abilities than other floors, but its autoimmunity is very low due to its imperfect design.",
+    "Stats": [
+      "-0.16 Immunity gain speed",
+      "+1.5 Melee dodge chance",
+      "+0.6 Move speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 623,
+    "RemovePrice": 1039,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_MountainA_0": {
+    "DefName": "MRT_MountainA",
+    "Name": "Inquisitive mind",
+    "Degree": 0,
+    "Description": "A fragment of a talent to accomplish a feat.",
+    "Stats": [
+      "+75.0% Global learning factor"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 431,
+    "RemovePrice": 718,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_MountainB_0": {
+    "DefName": "MRT_MountainB",
+    "Name": "Sense of duty",
+    "Degree": 0,
+    "Description": "A fragment of a talent to accomplish a feat.",
+    "Stats": [
+      "-0.14 Mental break threshold",
+      "+0.4 Global work speed"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 321,
+    "RemovePrice": 535,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_MountainC_0": {
+    "DefName": "MRT_MountainC",
+    "Name": "Philosophy",
+    "Degree": 0,
+    "Description": "A fragment of a talent to accomplish a feat.",
+    "Stats": [
+      "+1.5 Negotiation ability",
+      "+1.5 Social impact"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 600,
+    "RemovePrice": 1000,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "MRT_MountainD_0": {
+    "DefName": "MRT_MountainD",
+    "Name": "Warp",
+    "Degree": 0,
+    "Description": "A fragment of a talent to accomplish a feat.",
+    "Stats": [
+      "-0.25 Mental break threshold"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 56,
+    "RemovePrice": 468,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Maru Race",
+    "modactive": true,
+    "Version": 1
+  },
+  "Little_Red_Riding_Hood_Trait_0": {
+    "DefName": "Little_Red_Riding_Hood_Trait",
+    "Name": "\"little red riding hood\"",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} is a \"little red riding hood\".",
+    "Stats": [
+      "+5 Melee dodge chance",
+      "+5 Melee hit chance",
+      "-0.8 Psychic sensitivity"
+    ],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 2955,
+    "RemovePrice": 4925,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Wolfein extension:\"Little Red Riding Hood\"",
+    "modactive": true,
+    "Version": 1
+  },
+  "Take_life_and_death_lightly_0": {
+    "DefName": "Take_life_and_death_lightly",
+    "Name": "Take life and death lightly",
+    "Degree": 0,
+    "Description": "{PAWN_nameDef} has grown used to the death of others, so it places no value on its own life.",
+    "Stats": [],
+    "Conflicts": [],
+    "CanAdd": true,
+    "CanRemove": true,
+    "AddPrice": 150,
+    "RemovePrice": 250,
+    "BypassLimit": false,
+    "CustomName": false,
+    "KarmaTypeForAdding": null,
+    "KarmaTypeForRemoving": null,
+    "ModSource": "Wolfein extension:\"Little Red Riding Hood\"",
     "modactive": true,
     "Version": 1
   }

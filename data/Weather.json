@@ -272,7 +272,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ReGrowth 2",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RG_Drizzle": {
@@ -284,7 +284,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ReGrowth 2",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RG_FogStorm": {
@@ -296,7 +296,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ReGrowth 2",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "RG_FoggySnow": {
@@ -308,7 +308,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ReGrowth 2",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "IsekaiThickMist": {
@@ -320,7 +320,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "ISEKAI CREATURES ADD-ON - Isekai RPG Leveling",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "OAGene_SnowExtreme": {
@@ -332,7 +332,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "[OA]Ratkin Gene Expand",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "OAGene_IceSnowExtreme": {
@@ -380,7 +380,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "More Ritual Rewards",
-    "modactive": true,
+    "modactive": false,
     "Version": 1
   },
   "VGE_DustCloud": {
@@ -416,6 +416,234 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Kurin, The Three Tailed Fox [Deluxe Edition]",
+    "modactive": false,
+    "Version": 1
+  },
+  "AB_RedFog": {
+    "DefName": "AB_RedFog",
+    "Label": "red fog",
+    "Description": "Red fog reduces the accuracy of ranged weapons.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_VolcanicAsh": {
+    "DefName": "AB_VolcanicAsh",
+    "Label": "volcanic ash",
+    "Description": "A mixture of rock, mineral, and glass particles expelled from a volcano during a volcanic eruption. This creates a thick atmospheric layer that reduces ranged accuracy.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_VolcanicAshRain": {
+    "DefName": "AB_VolcanicAshRain",
+    "Label": "volcanic ash with rain",
+    "Description": "A mixture of rock, mineral, and glass particles expelled from a volcano during a volcanic eruption, precipitating with rain. This creates a thick atmospheric layer that reduces ranged accuracy.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenNight": {
+    "DefName": "AB_ForsakenNight",
+    "Label": "forsaken fog",
+    "Description": "A preternatural darkness that seeps into your very soul. Even during the \"day\" brightness will be very low, so lighting is going to be absolutely essential. Nights are going to be REALLY dark.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenRainyNight": {
+    "DefName": "AB_ForsakenRainyNight",
+    "Label": "forsaken rain",
+    "Description": "A preternatural darkness that seeps into your very soul. A freezing rain of supercooled water has started to drop from the darkened sky.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenThunderstorm": {
+    "DefName": "AB_ForsakenThunderstorm",
+    "Label": "forsaken thunderstorm",
+    "Description": "A preternatural darkness that seeps into your very soul. Now with a dry thunderstorm! Isn't it great?",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_AcidRainWeather": {
+    "DefName": "AB_AcidRainWeather",
+    "Label": "acid rain",
+    "Description": "Toxic gas emissions from nearby volcanically active calderas are precipitating in the form of dangerous acid rain. Acid rain has an adverse impact on flora and fauna, killing insect and aquatic life-forms as well as having impacts on human health. Acid rain reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_PetalStorms": {
+    "DefName": "AB_PetalStorms",
+    "Label": "petal storm",
+    "Description": "A flurry of flower petals that improves mood but reduces visibility.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenNight_Alternate": {
+    "DefName": "AB_ForsakenNight_Alternate",
+    "Label": "forsaken fog",
+    "Description": "A preternatural darkness that seeps into your very soul. Even during the \"day\" brightness will be very low, so lighting is going to be absolutely essential. Nights are going to be REALLY dark.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenRainyNight_Alternate": {
+    "DefName": "AB_ForsakenRainyNight_Alternate",
+    "Label": "forsaken rain",
+    "Description": "A preternatural darkness that seeps into your very soul. A freezing rain of supercooled water has started to drop from the darkened sky.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "AB_ForsakenThunderstorm_Alternate": {
+    "DefName": "AB_ForsakenThunderstorm_Alternate",
+    "Label": "forsaken thunderstorm",
+    "Description": "A preternatural darkness that seeps into your very soul. Now with a dry thunderstorm! Isn't it great?",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Alpha Biomes",
+    "modactive": true,
+    "Version": 1
+  },
+  "VPE_RadioactiveFog": {
+    "DefName": "VPE_RadioactiveFog",
+    "Label": "radioactive fog",
+    "Description": "A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Furniture Expanded - Power",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_FertileRains": {
+    "DefName": "VEE_FertileRains",
+    "Label": "fertile rain",
+    "Description": "Unusually nutrient-rich rainfall is sweeping across the region, boosting plant growth for its duration.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VEE_DustStorm": {
+    "DefName": "VEE_DustStorm",
+    "Label": "dust storm",
+    "Description": "A choking wall of wind-driven dust sweeps across the land, reducing visibility, slowing movement, and scouring anything left exposed.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Landmarks Expanded",
+    "modactive": true,
+    "Version": 1
+  },
+  "VPEH_Bloodstorm": {
+    "DefName": "VPEH_Bloodstorm",
+    "Label": "bloodstorm",
+    "Description": "Mystical downpour of blood, caused by forbidden hemosage psycast. While non-hemogenic individuals are choking on blood, sanguophages regenerate hemogen and can cast psycasts without worrying about psychic heat.",
+    "BaseCost": 600,
+    "KarmaType": "Doom",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Psycasts Expanded - Hemosage",
+    "modactive": true,
+    "Version": 1
+  },
+  "VQEA_AncientComplex": {
+    "DefName": "VQEA_AncientComplex",
+    "Label": "ancient complex",
+    "Description": null,
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Quests Expanded - Ancients",
+    "modactive": true,
+    "Version": 1
+  },
+  "VREA_PsychicStorm": {
+    "DefName": "VREA_PsychicStorm",
+    "Label": "psychic storm",
+    "Description": "Psychic storm is a supernatural phenomena that occurs during the periods of increased psychic activity.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "Vanilla Races Expanded - Archon",
+    "modactive": true,
+    "Version": 1
+  },
+  "TM_HealingRainWD": {
+    "DefName": "TM_HealingRainWD",
+    "Label": "healing rain",
+    "Description": "A gentle rain with healing properties. Any creature exposed to healing rain will slowly regenerate their wounds.",
+    "BaseCost": 150,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "A RimWorld of Magic",
+    "modactive": true,
+    "Version": 1
+  },
+  "TM_HailstormWD": {
+    "DefName": "TM_HailstormWD",
+    "Label": "hail storm",
+    "Description": "A fierce hailstorm that sheets swathes of land in deadly waves of ice. Movement and accuracy are severely hampered.",
+    "BaseCost": 300,
+    "KarmaType": "Bad",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "A RimWorld of Magic",
     "modactive": true,
     "Version": 1
   }

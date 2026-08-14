@@ -1783,7 +1783,7 @@
     "DefaultLootBoxSize": 1,
     "MinLootBoxSize": 1,
     "MaxLootBoxSize": 10,
-    "CustomData": ""
+    "CustomData": "{\"nonViolent\":\"false\",\"riskyzone\":\"\"}"
   },
   "autocast": {
     "Enabled": true,
@@ -2025,6 +2025,25 @@
     "MaxUsesPerCooldownPeriod": 0,
     "Label": "constellation",
     "CommandDescription": "Manage isekai classes",
+    "AllowedRaidTypes": [],
+    "AllowedRaidStrategies": [],
+    "DefaultLootBoxSize": 1,
+    "MinLootBoxSize": 1,
+    "MaxLootBoxSize": 10,
+    "CustomData": ""
+  },
+  "facialanimation": {
+    "Enabled": true,
+    "CooldownSeconds": 1,
+    "Cost": 0,
+    "SupportsCost": false,
+    "PermissionLevel": "everyone",
+    "RequiresConfirmation": false,
+    "CommandAlias": "",
+    "useCommandCooldown": true,
+    "MaxUsesPerCooldownPeriod": 0,
+    "Label": "facialanimation",
+    "CommandDescription": "Change facial animation parts",
     "AllowedRaidTypes": [],
     "AllowedRaidStrategies": [],
     "DefaultLootBoxSize": 1,

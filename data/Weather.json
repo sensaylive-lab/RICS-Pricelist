@@ -646,5 +646,17 @@
     "ModSource": "A RimWorld of Magic",
     "modactive": true,
     "Version": 1
+  },
+  "GravTide_DeepWater": {
+    "DefName": "GravTide_DeepWater",
+    "Label": "deep water",
+    "Description": "No sunlight reaches this far below the surface.",
+    "BaseCost": 175,
+    "KarmaType": "Neutral",
+    "EventCap": 3,
+    "Enabled": false,
+    "ModSource": "GravTide",
+    "modactive": true,
+    "Version": 1
   }
 }

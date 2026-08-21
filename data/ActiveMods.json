@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-08-14T23:19:09.8441355Z",
-  "totalActiveMods": 314,
+  "exportedAt": "2026-08-21T22:24:48.2647913Z",
+  "totalActiveMods": 324,
   "mods": [
     {
       "author": "Captolamia",
@@ -102,6 +102,12 @@
       "author": "Soul, Phaneron, Bradson",
       "name": "Adaptive Storage Framework",
       "steamId": "3033901359",
+      "version": null
+    },
+    {
+      "author": "darjeeling",
+      "name": "Advanced Battle Cloak",
+      "steamId": "3598135811",
       "version": null
     },
     {
@@ -711,6 +717,30 @@
       "version": null
     },
     {
+      "author": "keyz182",
+      "name": "Keyz' Allow Utilities",
+      "steamId": "3524716849",
+      "version": "1.3.7"
+    },
+    {
+      "author": "keyz182",
+      "name": "Keyz Misc Resources",
+      "steamId": "3355560776",
+      "version": null
+    },
+    {
+      "author": "keyz182",
+      "name": "Keyz Reference Tools",
+      "steamId": "3689557041",
+      "version": null
+    },
+    {
+      "author": "keyz182",
+      "name": "KeyzBossBars",
+      "steamId": "3357376267",
+      "version": null
+    },
+    {
       "author": "Kure",
       "name": "Kure's Rimworld of Magic Class Expansion Pack",
       "steamId": "2236103336",
@@ -720,6 +750,12 @@
       "author": "Nepenthe",
       "name": "Land On Anything",
       "steamId": "3545384484",
+      "version": null
+    },
+    {
+      "author": "Costel",
+      "name": "Layered Apparel",
+      "steamId": "3632480044",
       "version": null
     },
     {
@@ -750,6 +786,12 @@
       "author": "ViralReaction",
       "name": "Missile Girl - Performance Mod",
       "steamId": null,
+      "version": null
+    },
+    {
+      "author": "Astryl",
+      "name": "Modern Pawn Tabs",
+      "steamId": "3740575493",
       "version": null
     },
     {
@@ -969,9 +1011,21 @@
       "version": null
     },
     {
+      "author": "iamrespawn",
+      "name": "Prosthetic No Missing Body Parts (Continued)",
+      "steamId": "2739055353",
+      "version": "1.6.1"
+    },
+    {
       "author": "mr.teterew",
       "name": "Real Ruins",
       "steamId": "1552146295",
+      "version": null
+    },
+    {
+      "author": "sirrandoo",
+      "name": "Remove Death Amnesia",
+      "steamId": "1905421159",
       "version": null
     },
     {
@@ -1182,6 +1236,12 @@
       "author": "RemingtonRyder",
       "name": "Sometimes Raids Go Wrong",
       "steamId": "1551336515",
+      "version": null
+    },
+    {
+      "author": "Markun",
+      "name": "Spellbook",
+      "steamId": "3727983758",
       "version": null
     },
     {

@@ -187289,6 +187289,51 @@
       "Category": "Furniture",
       "Enabled": true,
       "modactive": true
+    },
+    "DACC_Cloak": {
+      "DefName": "DACC_Cloak",
+      "CustomName": "Armored Battle Cloak",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Advanced Battle Cloak",
+      "BasePrice": 495,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "DRCC_Cloak": {
+      "DefName": "DRCC_Cloak",
+      "CustomName": "Reconnaissance Battle Cloak",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Advanced Battle Cloak",
+      "BasePrice": 245,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
+    },
+    "DPCC_Cloak": {
+      "DefName": "DPCC_Cloak",
+      "CustomName": "Psychic Combat Cloak",
+      "HasQuantityLimit": true,
+      "QuantityLimit": 1,
+      "LimitMode": "OneStack",
+      "IsUsable": false,
+      "IsEquippable": false,
+      "IsWearable": true,
+      "Mod": "Advanced Battle Cloak",
+      "BasePrice": 260,
+      "Category": "Apparel",
+      "Enabled": true,
+      "modactive": true
     }
   }
 }

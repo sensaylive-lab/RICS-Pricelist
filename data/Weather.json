@@ -8,7 +8,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Fog": {
@@ -20,7 +20,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Rain": {
@@ -32,7 +32,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "DryThunderstorm": {
@@ -44,7 +44,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "RainyThunderstorm": {
@@ -56,7 +56,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "FoggyRain": {
@@ -68,7 +68,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowHard": {
@@ -80,7 +80,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "SnowGentle": {
@@ -92,7 +92,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Core",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Windy": {
@@ -104,7 +104,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "ToxRain": {
@@ -116,7 +116,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Sandstorm": {
@@ -128,7 +128,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "BlindFog": {
@@ -140,7 +140,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Overcast": {
@@ -152,7 +152,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "Blizzard": {
@@ -164,7 +164,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "TorrentialRain": {
@@ -176,7 +176,7 @@
     "EventCap": 3,
     "Enabled": true,
     "ModSource": "Odyssey",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "GravTide_DeepWater": {
@@ -188,7 +188,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "GravTide",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPE_RadioactiveFog": {
@@ -200,7 +200,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Furniture Expanded - Power",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VGE_DustCloud": {
@@ -212,7 +212,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VGE_ToxicDustCloud": {
@@ -224,7 +224,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Gravship Expanded - Chapter 1",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPE_Hurricane": {
@@ -236,7 +236,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Psycasts Expanded",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   },
   "VPEH_Bloodstorm": {
@@ -248,7 +248,7 @@
     "EventCap": 3,
     "Enabled": false,
     "ModSource": "Vanilla Psycasts Expanded - Hemosage",
-    "modactive": false,
+    "modactive": true,
     "Version": 1
   }
 }

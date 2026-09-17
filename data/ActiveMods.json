@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-09-17T02:07:44.2152901Z",
-  "totalActiveMods": 103,
+  "exportedAt": "2026-09-17T22:34:06.6339876Z",
+  "totalActiveMods": 110,
   "mods": [
     {
       "author": "Captolamia",
@@ -36,6 +36,18 @@
       "author": "DerekBickley",
       "name": "[LTO] Colony Groups",
       "steamId": "2345493945",
+      "version": null
+    },
+    {
+      "author": "Nals",
+      "name": "[NL] Facial Animation - Experimentals",
+      "steamId": "2581693737",
+      "version": null
+    },
+    {
+      "author": "Nals",
+      "name": "[NL] Facial Animation - WIP",
+      "steamId": "1635901197",
       "version": null
     },
     {
@@ -120,6 +132,12 @@
       "author": "CE Team",
       "name": "Combat Extended Armors",
       "steamId": "3565026039",
+      "version": null
+    },
+    {
+      "author": "CE Team",
+      "name": "Combat Extended Armory",
+      "steamId": "2911110083",
       "version": null
     },
     {
@@ -393,6 +411,12 @@
       "version": null
     },
     {
+      "author": "ferny",
+      "name": "Node Research",
+      "steamId": "3729878405",
+      "version": null
+    },
+    {
       "author": "Ludeon Studios",
       "name": "Odyssey",
       "steamId": null,
@@ -409,6 +433,12 @@
       "name": "Quality Colors (Continued)",
       "steamId": "3513846773",
       "version": null
+    },
+    {
+      "author": "Rainbeau Flambe / Zombie_Striker",
+      "name": "Rational Romance 2 (Continued)",
+      "steamId": "2593521827",
+      "version": "1.6.1"
     },
     {
       "author": "Seanggag",
@@ -468,6 +498,18 @@
       "author": "MemeGoddess",
       "name": "Search and Destroy (Continued)",
       "steamId": "3232242247",
+      "version": null
+    },
+    {
+      "author": "PeteTimesSix",
+      "name": "Simple sidearms",
+      "steamId": "927155256",
+      "version": null
+    },
+    {
+      "author": "Syrus",
+      "name": "Simple Sidearms - Switch Weapon",
+      "steamId": "2652962609",
       "version": null
     },
     {

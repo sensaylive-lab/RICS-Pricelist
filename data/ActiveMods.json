@@ -1,6 +1,6 @@
 {
-  "exportedAt": "2026-09-17T22:34:06.6339876Z",
-  "totalActiveMods": 110,
+  "exportedAt": "2026-10-02T00:08:47.5805099Z",
+  "totalActiveMods": 120,
   "mods": [
     {
       "author": "Captolamia",
@@ -12,13 +12,13 @@
       "author": "Captolamia",
       "name": "[CAP] RICS Storyteller",
       "steamId": "3794174734",
-      "version": "1.1.0"
+      "version": "1.2.0"
     },
     {
       "author": "Captolamia",
       "name": "[CAP] Rimworld Interactive Chat Service",
       "steamId": "3603078790",
-      "version": "1.49.0"
+      "version": "1.51.0"
     },
     {
       "author": "FrozenSnowFox",
@@ -219,10 +219,16 @@
       "version": null
     },
     {
+      "author": "telardo",
+      "name": "DragSelect",
+      "steamId": "2599942235",
+      "version": "1.6.0.2"
+    },
+    {
       "author": "Dubwise",
       "name": "Dubs Apparel Tweaks",
       "steamId": "2296697286",
-      "version": null
+      "version": "1.6.1"
     },
     {
       "author": "Dubwise",
@@ -252,13 +258,31 @@
       "author": "Dubwise",
       "name": "Dubs Mint Minimap",
       "steamId": "1662119905",
-      "version": "1.3.793"
+      "version": "1.3.800"
     },
     {
       "author": "Dubwise",
       "name": "Dubs Rimkit",
       "steamId": "832333531",
-      "version": "1.5.2022"
+      "version": "1.5.2023"
+    },
+    {
+      "author": "Dubwise",
+      "name": "Dubs Skylights",
+      "steamId": "833899765",
+      "version": "1.5.3070"
+    },
+    {
+      "author": "BJR1984",
+      "name": "Dubs Skylights Addon",
+      "steamId": "2016959026",
+      "version": null
+    },
+    {
+      "author": "Zeracronius",
+      "name": "Dynamic Trade Interface",
+      "steamId": "3020706506",
+      "version": null
     },
     {
       "author": "alite",
@@ -300,13 +324,7 @@
       "author": "AmCh, HappyCam, Eragon",
       "name": "Gene Fabrication",
       "steamId": "3352773112",
-      "version": "1.1.9"
-    },
-    {
-      "author": "Xavior",
-      "name": "Glitter Tech",
-      "steamId": "2558099206",
-      "version": null
+      "version": "1.1.10"
     },
     {
       "author": "K",
@@ -336,13 +354,19 @@
       "author": "yongdd",
       "name": "GravTide",
       "steamId": "3779600989",
-      "version": "2026.09.17"
+      "version": "2026.09.29"
     },
     {
       "author": "Andreas Pardeike",
       "name": "Harmony",
       "steamId": "2009463077",
       "version": "2.4.2.0"
+    },
+    {
+      "author": "UnlimitedHugs",
+      "name": "HugsLib",
+      "steamId": "818773962",
+      "version": null
     },
     {
       "author": "Ludeon Studios",
@@ -366,7 +390,7 @@
       "author": "ilyvion",
       "name": "Loading Progress",
       "steamId": "3535481557",
-      "version": "0.15.0"
+      "version": "0.16.0"
     },
     {
       "author": "m00nl1ght",
@@ -411,6 +435,12 @@
       "version": null
     },
     {
+      "author": "Doug",
+      "name": "No Job Authors",
+      "steamId": "2009825774",
+      "version": null
+    },
+    {
       "author": "ferny",
       "name": "Node Research",
       "steamId": "3729878405",
@@ -427,6 +457,12 @@
       "name": "Pick Up And Haul",
       "steamId": "1279012058",
       "version": null
+    },
+    {
+      "author": "iamrespawn",
+      "name": "Prosthetic No Missing Body Parts (Continued)",
+      "steamId": "2739055353",
+      "version": "1.6.1"
     },
     {
       "author": "DawnsGlow",
@@ -525,9 +561,21 @@
       "version": null
     },
     {
+      "author": "Weilbyte",
+      "name": "Snap Out!",
+      "steamId": "1319782555",
+      "version": null
+    },
+    {
       "author": "Souperzombie",
       "name": "Some Xenotypes",
       "steamId": "2995316469",
+      "version": null
+    },
+    {
+      "author": "Indeed",
+      "name": "Stack XXL",
+      "steamId": "826366050",
       "version": null
     },
     {
@@ -624,6 +672,18 @@
       "author": "Oskar Potocki,  Sarg Bjornson,  Sokyran,  Taranchuk",
       "name": "Vanilla Gravship Expanded - Chapter 2",
       "steamId": "3799737423",
+      "version": null
+    },
+    {
+      "author": "Oskar Potocki,  Sarg Bjornson,  Chowder",
+      "name": "Vanilla Plants Expanded",
+      "steamId": "2134308522",
+      "version": null
+    },
+    {
+      "author": "Sarg Bjornson,  Oskar Potocki",
+      "name": "Vanilla Plants Expanded - More Plants",
+      "steamId": "2748889667",
       "version": null
     },
     {

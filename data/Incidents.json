@@ -2339,7 +2339,7 @@
     "CooldownDays": 0,
     "UsesPerCooldownPeriod": 1,
     "ModSource": "Glitter Tech",
-    "modactive": true,
+    "modactive": false,
     "Version": 1,
     "IsWeatherIncident": false,
     "IsRaidIncident": true,
